@@ -15,7 +15,26 @@ nx017142 2022/12/14 15:03 feat(培训模块):修改菜单
 nx017142 2022/12/14 14:51 feat(培训模块):修改菜单
 
 ### 数据库：
-先备份，再删除，再从测试库插入
+先备份，再删除，再从测试库复制
+``` 
+create table tr_attend_bak as select * from tr_attend
+create table tr_attend_employee_bak as select * from tr_attend_employee
+
+--删除表
+tr_attend
+tr_attend_employee
+
+--复制测试数据库的表
+create table tr_attend as select * from tr_attend@xxdblink
+create table tr_attend_employee as select * from tr_attend_employee@xxdblink
+
+--如果指导员组要保留培训数据
+delete from tr_attend_employee where course_number in (select course_number from tr_attend_bak where type='2')
+delete from tr_attend where type='2'
+
+insert into tr_attend select 
+
+```
 tr_attend
 tr_attend_employee
 
