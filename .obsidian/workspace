@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "b627f743cf54f4cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8253d9088957f0ae",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c96103fe0aba9d4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2731ff7c07a1fb97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93de79f5120a258d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a69ef18b3507e2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46f131c220724df7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5666fd559615ef2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d81d871012c833",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8253d9088957f0ae",
+  "lastOpenFiles": []
+}
