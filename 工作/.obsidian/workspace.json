@@ -161,11 +161,14 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "c45bb4c12154fec5",
+  "active": "02321bb97bf85422",
   "lastOpenFiles": [
+    "Recording 20230301110339.webm",
     "HRM/images",
     "images",
     "HRM/images/Pasted image 20230301095113.png",
