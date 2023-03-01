@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6c5881886398b64a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "785408d3e3b9a59b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/HRM培训模块部署正式环境.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ce6073075057ca80",
         "type": "tabs",
         "children": [
@@ -34,6 +16,37 @@
                 "file": "HRM/HRM培训模块部署正式环境.md",
                 "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "7bf53023b24d37f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/2023 Goal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "de078b065adab31b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19a119150090d3c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/2023 Goal.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/HRM培训模块部署正式环境.md",
+                "file": "other/2023 Goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/HRM培训模块部署正式环境.md",
+                "file": "other/2023 Goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/HRM培训模块部署正式环境.md"
+                "file": "other/2023 Goal.md"
               }
             }
           }
@@ -166,8 +179,12 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "02321bb97bf85422",
+  "active": "7bf53023b24d37f4",
   "lastOpenFiles": [
+    "未命名.md",
+    "other/2023 Goal.md",
+    "other",
+    "HRM/HRM培训模块部署正式环境.md",
     "Recording 20230301110339.webm",
     "HRM/images",
     "images",
@@ -175,7 +192,6 @@
     "HRM/images/Pasted image 20230301094909.png",
     "HRM/images/Pasted image 20230301094743.png",
     "2023-02-28.md",
-    "HRM/HRM培训模块部署正式环境.md",
     "HRM"
   ]
 }
