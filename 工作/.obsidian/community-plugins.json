@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "code-block-copy",
-  "customizable-menu"
+  "customizable-menu",
+  "obsidian-excalidraw-plugin",
+  "obsidian-pandoc",
+  "ProxyGithub"
 ]
