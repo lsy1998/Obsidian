@@ -28,18 +28,9 @@ tr_attend_employee
 create table tr_attend as select * from tr_attend@xxdblink
 create table tr_attend_employee as select * from tr_attend_employee@xxdblink
 
---如果指导员组要保留培训数据
+--删除指导员组测试数据
 delete from tr_attend_employee where course_number in (select course_number from tr_attend_bak where type='2')
 delete from tr_attend where type='2'
-
-insert into tr_attend_employee (course_number, employee_id, employee_name, dept, remark, test_score, raining_agreement, agreement_start, agreement_end, service_month, agreement_status, upload_agreement, attend_status, attend_date, counrse_from_date, total_fee, travel_fee, created_by, created_date)
-select course_number, employee_id, employee_name, dept, remark, test_score, raining_agreement, agreement_start, agreement_end, service_month, agreement_status, upload_agreement, attend_status, attend_date, counrse_from_date, total_fee, travel_fee, created_by, created_date from tr_attend_employee_bak
-
-insert into tr_attend (course_number, counrse_from_date, counrse_to_date, hrs, trainer_id, trainer_name, training_allowance, "METHOD", trainer_remark, course_fee, remark, learning_course,  "TYPE") 
-select course_number, counrse_from_date, counrse_to_date, hrs, trainer_id, trainer_name, training_allowance, "METHOD", trainer_remark, course_fee, remark, learning_course,  "TYPE"
-from tr_attend_bak where type='2'
-
-
 ```
 tr_attend
 tr_attend_employee
