@@ -18,19 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "7bf53023b24d37f4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-01 16.07.26.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "de078b065adab31b",
@@ -114,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-01 16.07.26.excalidraw.md",
+                "file": "HRM/HRM培训模块部署正式环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-01 16.07.26.excalidraw.md",
+                "file": "HRM/HRM培训模块部署正式环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-01 16.07.26.excalidraw.md"
+                "file": "HRM/HRM培训模块部署正式环境.md"
               }
             }
           }
@@ -178,8 +167,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7bf53023b24d37f4",
+  "active": "02321bb97bf85422",
   "lastOpenFiles": [
+    "other/2023 Goal.md",
+    "HRM/HRM培训模块部署正式环境.md",
+    "Excalidraw/Drawing 2023-03-01 16.07.26.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
@@ -202,17 +194,13 @@
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "HRM/HRM培训模块部署正式环境.md",
     "HRM/HRM培训模块部署正式环境.epub",
-    "Excalidraw/Drawing 2023-03-01 16.07.26.excalidraw.md",
     "Excalidraw",
-    "other/2023 Goal.md",
     "未命名.md",
     "other",
     "Recording 20230301110339.webm",
     "HRM/images",
     "images",
-    "HRM/images/Pasted image 20230301095113.png",
     "2023-02-28.md",
     "HRM"
   ]
