@@ -14,12 +14,23 @@
               "type": "markdown",
               "state": {
                 "file": "HRM/HRM培训模块部署正式环境.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "d59af48611b4bbca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "de078b065adab31b",
@@ -103,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/HRM培训模块部署正式环境.md",
+                "file": "other/2023 Goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/HRM培训模块部署正式环境.md",
+                "file": "other/2023 Goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,16 +154,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/HRM培训模块部署正式环境.md"
+                "file": "other/2023 Goal.md"
               }
             }
+          },
+          {
+            "id": "c6f6d56a898a63fe",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +186,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "02321bb97bf85422",
+  "active": "d59af48611b4bbca",
   "lastOpenFiles": [
-    "other/2023 Goal.md",
     "HRM/HRM培训模块部署正式环境.md",
+    "Reduction (en-US).md",
+    "other/2023 Goal.md",
     "Excalidraw/Drawing 2023-03-01 16.07.26.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",

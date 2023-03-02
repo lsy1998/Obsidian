@@ -3,5 +3,7 @@
   "code-block-copy",
   "customizable-menu",
   "obsidian-excalidraw-plugin",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "ProxyGithub",
+  "obsidian-dictionary-plugin"
 ]
