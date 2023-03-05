@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae0e29dda05ef7c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/搭建开发环境.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/命令/rm.md",
+                "file": "React/搭建开发环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/命令/rm.md",
+                "file": "React/搭建开发环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/命令/rm.md"
+                "file": "React/搭建开发环境.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "513fab8451308a24",
+  "active": "ae0e29dda05ef7c3",
   "lastOpenFiles": [
     "Linux/命令/rm.md",
+    "React/搭建开发环境.md",
     "Linux/命令",
     "Linux",
     "React"
