@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rm.md",
+                "file": "Linux/命令/rm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rm.md",
+                "file": "Linux/命令/rm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rm.md",
+                "file": "Linux/命令/rm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rm.md"
+                "file": "Linux/命令/rm.md"
               }
             }
           }
@@ -147,9 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9b7f2ba7059adb76",
+  "active": "513fab8451308a24",
   "lastOpenFiles": [
-    "rm.md",
+    "Linux/命令/rm.md",
     "Linux/命令",
     "Linux",
     "React"
