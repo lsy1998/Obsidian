@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "d59af48611b4bbca",
+            "id": "9687d7f914f06cc6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Vue Cli迁移到Vite.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/HRM培训模块部署正式环境.md",
+                "file": "Vue Cli迁移到Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/HRM培训模块部署正式环境.md",
+                "file": "Vue Cli迁移到Vite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/HRM培训模块部署正式环境.md"
+                "file": "Vue Cli迁移到Vite.md"
               }
             }
           },
@@ -187,10 +189,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "c45bb4c12154fec5",
+  "active": "9687d7f914f06cc6",
   "lastOpenFiles": [
-    "Reduction (en-US).md",
     "HRM/HRM培训模块部署正式环境.md",
+    "Vue Cli迁移到Vite.md",
+    "Reduction (en-US).md",
     "other/2023 Goal.md",
     "Excalidraw/Drawing 2023-03-01 16.07.26.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
@@ -217,7 +220,6 @@
     "Excalidraw/Scripts",
     "HRM/HRM培训模块部署正式环境.epub",
     "Excalidraw",
-    "未命名.md",
     "other",
     "Recording 20230301110339.webm",
     "HRM/images",
