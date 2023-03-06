@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8914a74803073f64",
+        "id": "ce6073075057ca80",
         "type": "tabs",
         "children": [
           {
-            "id": "928b06983b392f4b",
+            "id": "02321bb97bf85422",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,10 +187,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d59af48611b4bbca",
+  "active": "c45bb4c12154fec5",
   "lastOpenFiles": [
-    "HRM/HRM培训模块部署正式环境.md",
     "Reduction (en-US).md",
+    "HRM/HRM培训模块部署正式环境.md",
     "other/2023 Goal.md",
     "Excalidraw/Drawing 2023-03-01 16.07.26.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
