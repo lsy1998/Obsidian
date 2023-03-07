@@ -16,6 +16,14 @@ vite不支持require.context(用于一次性引入多个或动态引入)
 ```js
 require.context 改成 import.meta.globEager
 ```
+vite不支持path
+```js
+import path from 'path' 改成 import path from 'path-browserify'
+```
+
+```shell
+npm i path-browserify
+```
 
 #### 在配置中使用环境变量[¶](https://cn.vitejs.dev/config/#using-environment-variables-in-config)
 
