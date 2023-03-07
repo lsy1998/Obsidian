@@ -9,7 +9,7 @@ vite不支持require
 ```js
 可以用插件，但不好用
 ```
-vite不支持require.context(用于一次性引入多个)
+vite不支持require.context(用于一次性引入多个或动态引入)
 ```js
 require.context 改成 import.meta.globEager
 ```
