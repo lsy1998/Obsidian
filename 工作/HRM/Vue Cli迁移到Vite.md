@@ -24,6 +24,11 @@ import path from 'path' 改成 import path from 'path-browserify'
 ```shell
 npm i path-browserify
 ```
+对于jsx
+```shell
+不管版本，强制引入
+ npm i @vitejs/plugin-vue2-jsx@1.1.0 --legacy-peer-deps
+```
 
 #### 在配置中使用环境变量[¶](https://cn.vitejs.dev/config/#using-environment-variables-in-config)
 
