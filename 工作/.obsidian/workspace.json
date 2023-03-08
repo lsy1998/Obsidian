@@ -23,16 +23,24 @@
             "id": "9687d7f914f06cc6",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "460be74ef2e439cc",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "HRM/Vue Cli迁移到Vite.md",
+                "file": "Talent Profile/talent profile部署正式环境.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "de078b065adab31b",
@@ -42,12 +50,8 @@
             "id": "19a119150090d3c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "other/2023 Goal.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +73,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -116,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/Vue Cli迁移到Vite.md",
+                "file": "Talent Profile/talent profile部署正式环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/Vue Cli迁移到Vite.md",
+                "file": "Talent Profile/talent profile部署正式环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/Vue Cli迁移到Vite.md"
+                "file": "Talent Profile/talent profile部署正式环境.md"
               }
             }
           },
@@ -189,12 +193,16 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9687d7f914f06cc6",
+  "active": "460be74ef2e439cc",
   "lastOpenFiles": [
-    "HRM/HRM培训模块部署正式环境.md",
-    "HRM/Vue Cli迁移到Vite.md",
-    "Reduction (en-US).md",
+    "Talent Profile/talent profile部署正式环境.md",
     "other/2023 Goal.md",
+    "other",
+    "Talent Profile",
+    "HRM/Vue Cli迁移到Vite.md",
+    "HRM/HRM培训模块部署正式环境.md",
+    "Reduction (en-US).md",
+    "Talent Profile/other/2023 Goal.md",
     "Excalidraw/Drawing 2023-03-01 16.07.26.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
@@ -220,11 +228,10 @@
     "Excalidraw/Scripts",
     "HRM/HRM培训模块部署正式环境.epub",
     "Excalidraw",
-    "other",
+    "Talent Profile/other",
     "Recording 20230301110339.webm",
     "HRM/images",
     "images",
-    "2023-02-28.md",
-    "HRM"
+    "2023-02-28.md"
   ]
 }
