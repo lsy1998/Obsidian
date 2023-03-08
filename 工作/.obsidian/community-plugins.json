@@ -4,6 +4,8 @@
   "customizable-menu",
   "obsidian-excalidraw-plugin",
   "obsidian-pandoc",
-  "ProxyGithub",
-  "obsidian-dictionary-plugin"
+  "obsidian-dictionary-plugin",
+  "cmenu-plugin",
+  "cm-editor-syntax-highlight-obsidian",
+  "media-extended"
 ]
