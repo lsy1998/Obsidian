@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0711a7decc7812d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React学习路径.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React学习路径.md",
+                "file": "React/搭建开发环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React学习路径.md",
+                "file": "React/搭建开发环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React学习路径.md"
+                "file": "React/搭建开发环境.md"
               }
             }
           }
@@ -172,10 +160,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "0711a7decc7812d1",
+  "active": "ae0e29dda05ef7c3",
   "lastOpenFiles": [
+    "React/React学习路径.md",
     "React/搭建开发环境.md",
-    "React学习路径.md",
     "React学习路径",
     "React学习路径",
     "Linux/命令/rm.md",
