@@ -39,5 +39,6 @@ numSectionItem,
 sectionHeadCount
 ```
 1. 如果 `payPeriodDefn` 不为空
-2. 获取厂区和部门的 list 通过[[resExtByCostCenterMapper.getOrganAndDepartList(param1)]]
-3. 
+2. 获取厂区和部门的 <font color="#ff0000">organAndDepartList</font> 通过[[resExtByCostCenterMapper.getOrganAndDepartList(param1)]]
+3. 遍历 <font color="#ff0000">organAndDepartList</font>
+4. 遍历过程中获取[[resExtByCostCenterMapper.getTeamDetailsList(param1)]]
