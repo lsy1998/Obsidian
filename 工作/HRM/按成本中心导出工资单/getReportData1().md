@@ -39,5 +39,5 @@ numSectionItem,
 sectionHeadCount
 ```
 1. 如果 `payPeriodDefn` 不为空
-2. 获取厂区和部门[[resExtByCostCenterMapper.getOrganAndDepartList(param1)]]
+2. 获取厂区和部门的 list 通过[[resExtByCostCenterMapper.getOrganAndDepartList(param1)]]
 3. 
