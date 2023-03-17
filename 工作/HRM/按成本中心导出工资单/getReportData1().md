@@ -1,5 +1,4 @@
-输入：
-
+## 输入
 ```js
 param,  
 rowDataList,  
@@ -39,3 +38,6 @@ grandHeadCount,
 numSectionItem,  
 sectionHeadCount
 ```
+1. 如果 `payPeriodDefn` 不为空
+2. 获取厂区和部门[[resExtByCostCenterMapper.getOrganAndDepartList(param1)]]
+3. 
