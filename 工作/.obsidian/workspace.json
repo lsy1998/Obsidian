@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "083ae470a49fc62d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getPayPeriodDefn(param).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e7b00a8eebda9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HRM/数据库表/pr_pay_period_defn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8af4613634d2b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HRM/按成本中心导出工资单/getReportData1().md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/按成本中心导出工资单.md",
+                "file": "HRM/数据库表/pr_pay_period_defn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/按成本中心导出工资单.md",
+                "file": "HRM/数据库表/pr_pay_period_defn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/按成本中心导出工资单.md"
+                "file": "HRM/数据库表/pr_pay_period_defn.md"
               }
             }
           },
@@ -158,9 +195,15 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "3f635d78a126a0d9",
+  "active": "7e7b00a8eebda9c5",
   "lastOpenFiles": [
+    "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getPayPeriodDefn(param).md",
+    "HRM/数据库表/pr_pay_period_defn.md",
+    "HRM/数据库表/未命名",
+    "HRM/数据库表",
     "HRM/按成本中心导出工资单.md",
+    "HRM/按成本中心导出工资单/getReportData1().md",
+    "HRM/按成本中心导出工资单",
     "HRM/HRM培训模块部署正式环境.md",
     "HRM/Vue Cli迁移到Vite.md",
     "Talent Profile/启动talent profile&skill matrix.mp4",
@@ -195,9 +238,6 @@
     "Excalidraw/Scripts",
     "HRM/HRM培训模块部署正式环境.epub",
     "Excalidraw",
-    "Talent Profile/other",
-    "Recording 20230301110339.webm",
-    "HRM/images",
     "2023-02-28.md"
   ]
 }
