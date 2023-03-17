@@ -39,6 +39,7 @@
               "state": {
                 "file": "HRM/数据库表/pr_pay_period_defn.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
