@@ -1,0 +1,11 @@
+## 字段
+```js
+FNC_ID
+PAYROLL_REPORT_GROUP
+REPORT_SEQ_NO
+PAYROLL_TRANS_ID
+E_NAME
+C_NAME
+```
+## 作用
+薪资报表的表头定义
