@@ -1,0 +1,11 @@
+## 字段
+```js
+PAY_PERIOD_GROUP
+PAY_PERIOD
+EE_ID
+PAYROLL_TRANS_ID
+DESCRIPTION
+PAYROLL_AMOUNT
+```
+## 作用
+不同付薪组，不同付薪周期，不同pr项目，不同员工的付薪金额
