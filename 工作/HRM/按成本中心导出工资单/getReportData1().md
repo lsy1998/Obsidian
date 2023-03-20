@@ -49,3 +49,5 @@ sectionHeadCount
 	1. 获取 <font color="#ff0000">salaryRate</font> 通过 [[resExtByCostCenterMapper.getSalaryRate(param1)]]
 	2. 获取 <font color="#c00000">deptCName</font> 通过[[resExtByCostCenterMapper.getDeptName(DEPARTMENT_ID)]] 
 	3. 将员工相关基础信息添加到 <font color="#c00000">addProperties</font> 
+	4. 开始计算税前项，通过 [[resExtByCostCenterMapper.getTaxTransList(param1)]]获取<font color="#c00000">taxTransList</font>
+	5. 
