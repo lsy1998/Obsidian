@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRM/按成本中心导出工资单/getReportData1().md",
+                "file": "TypeScript/数据类型.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -24,25 +23,16 @@
             "id": "7e7b00a8eebda9c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getPayPeriodDefn(param).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "d8af4613634d2b04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/按成本中心导出工资单/getReportData1().md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/按成本中心导出工资单/getReportData1().md",
+                "file": "TypeScript/数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/按成本中心导出工资单/getReportData1().md",
+                "file": "TypeScript/数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/按成本中心导出工资单/getReportData1().md"
+                "file": "TypeScript/数据类型.md"
               }
             }
           },
