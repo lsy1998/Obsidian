@@ -1,9 +1,11 @@
 [
-  "ProxyGithub",
-  "obsidian-excalidraw-plugin",
-  "customizable-menu",
-  "code-block-copy",
   "obsidian-git",
+  "code-block-copy",
+  "customizable-menu",
+  "obsidian-excalidraw-plugin",
   "obsidian-pandoc",
-  "cmenu-plugin"
+  "cm-editor-syntax-highlight-obsidian",
+  "media-extended",
+  "editing-toolbar",
+  "mx-bili-plugin"
 ]

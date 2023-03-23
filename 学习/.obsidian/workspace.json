@@ -1,62 +1,75 @@
 {
   "main": {
-    "id": "88272b632a1591f8",
+    "id": "02bd18c84bfa5174",
     "type": "split",
     "children": [
       {
-        "id": "d2597aa8cff95245",
+        "id": "0c6571c2d367ba20",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7f2ba7059adb76",
+            "id": "083ae470a49fc62d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/命令/rm.md",
+                "file": "HRM/按成本中心导出工资单/getReportData1().md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "ae0e29dda05ef7c3",
+            "id": "7e7b00a8eebda9c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/搭建开发环境.md",
+                "file": "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getPayPeriodDefn(param).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8af4613634d2b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HRM/按成本中心导出工资单/getReportData1().md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a8da2359c883cdac",
+    "id": "e3ffe983a870c605",
     "type": "split",
     "children": [
       {
-        "id": "ab9170a937acfe62",
+        "id": "08bc86bc8b2eb89e",
         "type": "tabs",
         "children": [
           {
-            "id": "513fab8451308a24",
+            "id": "c45bb4c12154fec5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
           {
-            "id": "affa4a15f91e71e4",
+            "id": "30ec15410138f4f3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +84,7 @@
             }
           },
           {
-            "id": "e002c8d1c39882ff",
+            "id": "941fd5617521ef75",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -82,23 +95,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 452.5
   },
   "right": {
-    "id": "eeeb50eea263b387",
+    "id": "52773f3be8961ad0",
     "type": "split",
     "children": [
       {
-        "id": "cad2af69216ae4d2",
+        "id": "65c5ff5bbf878905",
         "type": "tabs",
         "children": [
           {
-            "id": "52d1a6ea5a410278",
+            "id": "6c18af8c271d45ed",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/搭建开发环境.md",
+                "file": "HRM/按成本中心导出工资单/getReportData1().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +123,19 @@
             }
           },
           {
-            "id": "6ace8201995099ae",
+            "id": "2934c139e1519537",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/搭建开发环境.md",
+                "file": "HRM/按成本中心导出工资单/getReportData1().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "01943bd05a89e3b7",
+            "id": "f145f204b1159e54",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,16 +146,25 @@
             }
           },
           {
-            "id": "a2cbc8b372b8157a",
+            "id": "d74d4b1b20192ecb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/搭建开发环境.md"
+                "file": "HRM/按成本中心导出工资单/getReportData1().md"
               }
             }
+          },
+          {
+            "id": "c6f6d56a898a63fe",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,22 +173,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "ae0e29dda05ef7c3",
+  "active": "083ae470a49fc62d",
   "lastOpenFiles": [
-    "React/React学习路径.md",
-    "Linux/命令/rm.md",
-    "React/搭建开发环境.md",
-    "Linux/命令",
-    "Linux",
-    "React"
+    "resExtByCostCenterMapper.getTaxTransList(param1).md",
+    "HRM/按成本中心导出工资单/getReportData1().md",
+    "HRM/按成本中心导出工资单.md",
+    "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getBeforeTaxTitle(param).md",
+    "HRM/数据库表/pr_result_dtl.md",
+    "HRM/数据库表/pr_report_group.md",
+    "HRM/数据库表/pr_item_defn.md",
+    "HRM/按成本中心导出工资单/this.getReportTitlePart1.md",
+    "HRM/按成本中心导出工资单/this.getReportTitlePart2.md",
+    "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getEmployeeDetailsList(param1).md",
+    "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getDeptName(DEPARTMENT_ID).md",
+    "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getSalaryRate(param1).md",
+    "HRM/数据库表/ee_payment_term.md",
+    "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getTeamDetailsList(param1).md",
+    "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getOrganAndDepartList(param1).md",
+    "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getPayPeriodDefn(param).md",
+    "HRM/HRM培训模块部署正式环境.md",
+    "HRM/数据库表/pr_pay_period_defn.md",
+    "`resExtByCostCenterMapper.getPayPeriodDefn(param)`.md",
+    "HRM/数据库表/未命名",
+    "HRM/数据库表",
+    "HRM/按成本中心导出工资单",
+    "HRM/Vue Cli迁移到Vite.md",
+    "Talent Profile/启动talent profile&skill matrix.mp4",
+    "Talent Profile/talent profile部署正式环境.md",
+    "other/2023 Goal.md",
+    "other",
+    "Talent Profile",
+    "Reduction (en-US).md",
+    "Talent Profile/other/2023 Goal.md",
+    "Excalidraw/Drawing 2023-03-01 16.07.26.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Alternative Pens.svg",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "HRM/HRM培训模块部署正式环境.epub",
+    "Excalidraw"
   ]
 }

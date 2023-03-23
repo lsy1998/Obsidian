@@ -12,9 +12,13 @@
   "templates",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
   "starred",
+  "random-note",
   "outline",
   "word-count",
-  "file-recovery"
+  "audio-recorder",
+  "file-recovery",
+  "sync"
 ]

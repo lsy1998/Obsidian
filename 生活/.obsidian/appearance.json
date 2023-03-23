@@ -1,5 +1,7 @@
 {
   "accentColor": "",
   "translucency": false,
-  "theme": "system"
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz"
 }
