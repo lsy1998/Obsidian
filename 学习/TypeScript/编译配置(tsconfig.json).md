@@ -1,6 +1,13 @@
 ## include
+需要编译的文件
+```js
+**  //表示任意目录
+* //表示任意文件
+```
 ## exclude
+不需要的文件
 ## compilerOptions
+编译器选项
 ### target
 ### lib
 ### module

@@ -159,15 +159,15 @@
             }
           },
           {
-            "id": "c6f6d56a898a63fe",
+            "id": "000caadf90853840",
             "type": "leaf",
             "state": {
-              "type": "dictionary-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
