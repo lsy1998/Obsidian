@@ -1,9 +1,10 @@
 
 ```js
 const path = require('path');
+const HTMLWebPackPlugin = require('html-webpack-plugin');
+const cleanWebPackPlugin = require('clean-webpack-plugin');
 
 module.exports = {
-
     // 指定入口文件
     entry: './index.ts',
     // 指定打包文件所在路径
@@ -25,6 +26,22 @@ module.exports = {
                 exclude: /node-modules/
             }
         ]
+    },
+
+    //配置webpack插件
+    plugins:[
+        //清除dist
+        new cleanWebPackPlugin(),
+        new HTMLWebPackPlugin({
+            title:'自定义html文件的title',
+            //指定一个模板
+            // template: '',
+        }),
+    ],
+    //哪些文件可以当作模块引入
+    resolve:{
+        extensions: ['.js', '.ts', '.jsx']
     }
+
 }
 ```

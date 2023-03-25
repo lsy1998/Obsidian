@@ -37,26 +37,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/使用Webpack打包ts.md",
+                "file": "Linux/命令/rm.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "7e7b00a8eebda9c5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d8af4613634d2b04",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -126,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/使用Webpack打包ts.md",
+                "file": "Linux/命令/rm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/使用Webpack打包ts.md",
+                "file": "Linux/命令/rm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/使用Webpack打包ts.md"
+                "file": "Linux/命令/rm.md"
               }
             }
           },
@@ -201,8 +185,10 @@
   },
   "active": "bd699cdc26171348",
   "lastOpenFiles": [
-    "TypeScript/编译配置(tsconfig.json).md",
+    "React/React学习路径.md",
+    "React/搭建开发环境.md",
     "TypeScript/使用Webpack打包ts.md",
+    "TypeScript/编译配置(tsconfig.json).md",
     "TypeScript/数据类型.md",
     "resExtByCostCenterMapper.getTaxTransList(param1).md",
     "HRM/按成本中心导出工资单/getReportData1().md",
@@ -229,10 +215,8 @@
     "HRM/Vue Cli迁移到Vite.md",
     "Talent Profile/启动talent profile&skill matrix.mp4",
     "Talent Profile/talent profile部署正式环境.md",
-    "other/2023 Goal.md",
     "other",
     "Talent Profile",
-    "Reduction (en-US).md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
