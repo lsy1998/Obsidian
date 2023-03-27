@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0c6571c2d367ba20",
+        "id": "55831061b5a668d4",
         "type": "tabs",
         "children": [
           {
-            "id": "7e7b00a8eebda9c5",
+            "id": "41aa17c2f04a297d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getPayPeriodDefn(param).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getPayPeriodDefn(param).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getPayPeriodDefn(param).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getPayPeriodDefn(param).md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,15 +150,19 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7e7b00a8eebda9c5",
+  "active": "41aa17c2f04a297d",
   "lastOpenFiles": [
+    "HRM/Diagram.svg",
+    "HRM/Vue Cli迁移到Vite.md",
+    "Excalidraw/Drawing 2023-03-27 12.14.36.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-27 11.33.44.excalidraw.md",
+    "未命名.canvas",
+    "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getPayPeriodDefn(param).md",
     "HRM/按成本中心导出工资单/函数/getReportData1().md",
     "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md",
     "HRM/HRM培训模块部署正式环境.md",
-    "Excalidraw/Drawing 2023-03-27 11.33.44.excalidraw.md",
     "HRM/数据库表/pr_item_group.md",
     "HRM/按成本中心导出工资单/函数",
-    "HRM/Vue Cli迁移到Vite.md",
     "HRM/按成本中心导出工资单/按成本中心导出工资单.md",
     "HRM/数据库表/ee_payment_term.md",
     "HRM/数据库表/pr_item_defn.md",
@@ -185,13 +180,10 @@
     "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getSalaryRate(param1).md",
     "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getTeamDetailsList(param1).md",
     "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getOrganAndDepartList(param1).md",
-    "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getPayPeriodDefn(param).md",
     "`resExtByCostCenterMapper.getPayPeriodDefn(param)`.md",
     "HRM/数据库表",
     "HRM/按成本中心导出工资单",
     "Talent Profile/启动talent profile&skill matrix.mp4",
-    "Talent Profile/talent profile部署正式环境.md",
-    "other/2023 Goal.md",
     "other",
     "Talent Profile",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
@@ -203,7 +195,6 @@
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "HRM/HRM培训模块部署正式环境.epub"
