@@ -1,3 +1,4 @@
+标签: #talent-profile
 
 > **做好备份**
 
@@ -28,3 +29,14 @@ VUE_APP_BASE_API = '//cngua01ms084:9008'
 ### 1. 关掉测试环境，关掉测试环境定时任务
 ### 2. 备份正式环境
 ### 3. 部署前后端
+
+```dataview
+table file.name, file.tags from "" where file.extension = "md"
+```
+```dataview
+table file.name as "文件名", file.modified as "修改时间"
+from "" 
+sort file.modified desc
+limit 10
+```
+

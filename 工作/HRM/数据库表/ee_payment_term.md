@@ -16,3 +16,5 @@ PRC_ER_BENEFIT_ENCASH:中国福利折现
 LOCAL_ER_PFUND_ENCASH:香港Pfund折现
 NON_PRC_TAX_EFF_AMT:免税报销额
 ```
+## 作用
+获取基本工资

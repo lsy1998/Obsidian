@@ -7,5 +7,8 @@
   "cm-editor-syntax-highlight-obsidian",
   "media-extended",
   "editing-toolbar",
-  "mx-bili-plugin"
+  "mx-bili-plugin",
+  "ProxyGithub",
+  "drawio-obsidian",
+  "dataview"
 ]
