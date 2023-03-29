@@ -182,8 +182,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "c45bb4c12154fec5",
+  "active": "308009095668184c",
   "lastOpenFiles": [
+    "HRM/服务器CPU过载.md",
     "HRM/问题",
     "HRM/问题/服务器 CPU 过载.md",
     "HRM/问题/关闭 Pagehelper.md",
@@ -229,7 +230,6 @@
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "HRM/HRM培训模块部署正式环境.epub"
+    "Excalidraw/Scripts"
   ]
 }
