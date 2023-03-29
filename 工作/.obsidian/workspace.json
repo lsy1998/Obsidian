@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ae15a103b8971c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HRM/服务器CPU过载.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talent Profile/talent profile部署正式环境.md",
+                "file": "HRM/服务器CPU过载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talent Profile/talent profile部署正式环境.md",
+                "file": "HRM/服务器CPU过载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talent Profile/talent profile部署正式环境.md"
+                "file": "HRM/服务器CPU过载.md"
               }
             }
           },
@@ -158,8 +170,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "30ec15410138f4f3",
+  "active": "c45bb4c12154fec5",
   "lastOpenFiles": [
+    "HRM/images/Pasted image 20230329151919.png",
+    "Talent Profile/talent profile部署正式环境.md",
+    "HRM/服务器CPU过载.md",
     "HRM/Diagram.svg",
     "HRM/Vue Cli迁移到Vite.md",
     "Excalidraw/Drawing 2023-03-27 12.14.36.excalidraw.md",
@@ -187,8 +202,6 @@
     "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getDeptName(DEPARTMENT_ID).md",
     "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getSalaryRate(param1).md",
     "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getTeamDetailsList(param1).md",
-    "HRM/按成本中心导出工资单/函数/resExtByCostCenterMapper.getOrganAndDepartList(param1).md",
-    "`resExtByCostCenterMapper.getPayPeriodDefn(param)`.md",
     "HRM/数据库表",
     "HRM/按成本中心导出工资单",
     "Talent Profile/启动talent profile&skill matrix.mp4",
