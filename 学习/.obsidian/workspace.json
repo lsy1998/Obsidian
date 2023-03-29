@@ -257,6 +257,9 @@
   },
   "active": "149635d88c5f88a9",
   "lastOpenFiles": [
+    "CSS/自定义属性.md",
+    "CSS/可变字体.md",
+    "CSS/SVG.md",
     "CSS/CSS知识点.md",
     "CSS/知识点",
     "CSS/知识点/SVG.md",
@@ -282,8 +285,6 @@
     "HRM/数据库表/pr_item_defn.md",
     "HRM/按成本中心导出工资单/this.getReportTitlePart1.md",
     "HRM/按成本中心导出工资单/this.getReportTitlePart2.md",
-    "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getEmployeeDetailsList(param1).md",
-    "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getDeptName(DEPARTMENT_ID).md",
     "HRM/数据库表/未命名",
     "HRM/数据库表",
     "HRM/按成本中心导出工资单",
