@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/自定义属性.md",
+                "file": "CSS/可变字体.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/自定义属性.md",
+                "file": "CSS/可变字体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/自定义属性.md",
+                "file": "CSS/可变字体.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/自定义属性.md"
+                "file": "CSS/可变字体.md"
               }
             }
           },
@@ -245,8 +245,8 @@
   },
   "active": "9d668674659f37d1",
   "lastOpenFiles": [
-    "CSS/可变字体.md",
     "CSS/自定义属性.md",
+    "CSS/可变字体.md",
     "CSS/SVG.md",
     "TypeScript/interface.md",
     "CSS",
