@@ -7,6 +7,8 @@
 > -   SVG 是万维网联盟的标准
 > -   SVG 与诸如 DOM 和 XSL 之类的 W3C 标准是一个整体
 
+---
+
 ## 优势
 > -   SVG 可被非常多的工具读取和修改（比如记事本）
 > -   SVG 与 JPEG 和 GIF 图像比起来，尺寸更小，且可压缩性更强。
@@ -17,3 +19,13 @@
 > -   SVG 可以与 JavaScript 技术一起运行
 > -   SVG 是开放的标准
 > -   SVG 文件是纯粹的 XML
+
+---
+
+## svg在html中
+SVG 文件可通过以下标签嵌入 HTML 文档：<embed>、<object> 或者 <iframe>。
+SVG的代码可以直接嵌入到HTML页面中，或您可以直接链接到SVG文件。
+
+```html
+<embed src="circle1.svg" type="image/svg+xml" />
+```
