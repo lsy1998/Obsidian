@@ -82,3 +82,40 @@
 </svg>
 ```
 > -   rx 和 ry 属性可使矩形产生圆角。
+## SVG圆形
+```html
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">  
+  <circle cx="100" cy="50" r="40" stroke ="black"  
+  stroke-width="2" fill="red"/>  
+</svg>
+```
+> -   cx和cy属性定义圆点的x和y坐标。如果省略cx和cy，圆的中心会被设置为(0, 0)
+> -   r属性定义圆的半径
+## SVG椭圆
+```html
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"> <ellipse cx="300" cy="80" rx="100" ry="50" style="fill:yellow; stroke :purple;stroke-width:2"/> </svg>
+```
+> -   CX属性定义的椭圆中心的x坐标
+> -   CY属性定义的椭圆中心的y坐标
+> -   RX属性定义的水平半径
+> -   RY属性定义的垂直半径
+
+```html
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"> <ellipse cx="240" cy="100" rx="220" ry="30" style="fill:purple"/> <ellipse cx="220" cy="70" rx="190" ry="20" style="fill:lime"/> <ellipse cx="210" cy="45" rx="170" ry="15" style="fill:yellow"/> </svg>
+```
+
+```html
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"> <ellipse cx="240" cy="50" rx="220" ry="30" style="fill:yellow"/> <ellipse cx="220" cy="50" rx="190" ry="20" style="fill:white"/> </svg>
+```
+
+## SVG直线
+```html
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">  
+  <line x1="0" y1="0" x2="200" y2="200"  
+  style=" stroke :rgb(255,0,0);stroke-width:2"/>  
+</svg>
+```
+> -   x1 属性在 x 轴定义线条的开始
+> -   y1 属性在 y 轴定义线条的开始
+> -   x2 属性在 x 轴定义线条的结束
+> -   y2 属性在 y 轴定义线条的结束
