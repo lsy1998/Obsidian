@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2af66f515ddc371a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/知识点/自定义属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/知识点/自定义属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSS/知识点/自定义属性.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,16 +162,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "30ec15410138f4f3",
+  "active": "2af66f515ddc371a",
   "lastOpenFiles": [
     "CSS/CSS知识点.md",
+    "CSS/知识点/hsl()和hsla().md",
+    "CSS/知识点/自定义属性.md",
     "CSS/知识点/可变字体.md",
     "CSS/知识点/SVG.md",
     "CSS/自定义属性.md",
     "CSS/可变字体.md",
     "CSS/SVG.md",
     "CSS/知识点",
-    "CSS/知识点/自定义属性.md",
     "TypeScript/interface.md",
     "CSS",
     "TypeScript/type.md",
@@ -188,7 +192,6 @@
     "HRM/数据库表/pr_report_group.md",
     "HRM/数据库表/pr_item_defn.md",
     "HRM/按成本中心导出工资单/this.getReportTitlePart1.md",
-    "HRM/按成本中心导出工资单/this.getReportTitlePart2.md",
     "HRM/数据库表/未命名",
     "HRM/数据库表",
     "HRM/按成本中心导出工资单",
