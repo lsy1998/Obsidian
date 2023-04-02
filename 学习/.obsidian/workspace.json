@@ -182,8 +182,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "c86de440af53e7f5",
+  "active": "c45bb4c12154fec5",
   "lastOpenFiles": [
+    "images",
+    "images/Pasted image 20230402203738.png",
+    "images/Pasted image 20230402203657.png",
     "React/搭建开发环境.md",
     "CSS/知识点/inherited和initial.md",
     "React/React学习路径.md",
@@ -211,7 +214,6 @@
     "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getBeforeTaxTitle(param).md",
     "HRM/数据库表/pr_result_dtl.md",
     "HRM/数据库表/pr_report_group.md",
-    "HRM/数据库表/pr_item_defn.md",
     "HRM/数据库表/未命名",
     "HRM/数据库表",
     "HRM/按成本中心导出工资单",
@@ -226,8 +228,6 @@
     "Excalidraw/Scripts/Downloaded/Alternative Pens.svg",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts"
   ]
