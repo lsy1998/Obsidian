@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/知识点/focus-visible.md",
+                "file": "CSS/知识点/focus-visible 和 focus.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/知识点/focus-visible.md",
+                "file": "CSS/知识点/focus-visible 和 focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/知识点/focus-visible.md",
+                "file": "CSS/知识点/focus-visible 和 focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/知识点/focus-visible.md"
+                "file": "CSS/知识点/focus-visible 和 focus.md"
               }
             }
           },
@@ -220,7 +220,7 @@
   "active": "b2b4475ab6df79c5",
   "lastOpenFiles": [
     "CSS/CSS知识点.md",
-    "CSS/知识点/focus-visible.md",
+    "CSS/知识点/focus-visible 和 focus.md",
     "CSS/知识点/place-items.md",
     "数据库/Oracle/Floor().md",
     "数据库/Oracle",

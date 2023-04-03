@@ -5,5 +5,5 @@
 5. [[@font-face]]
 6. [[@media]]
 7. [[place-items]]
-8. [[focus-visible]]
+8. [[focus-visible 和 focus]]
 9. 
