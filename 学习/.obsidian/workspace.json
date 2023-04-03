@@ -8,115 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fab5b40aa346fc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/使用Webpack打包ts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cf08c217c445d25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/super.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "560371b74979d846",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/abstract.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3276438b856cde59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/type.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d483da37aa753c01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/interface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc2361e5df5d2d05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/知识点/可变字体.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c819850d6849baf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/知识点/可变字体.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d668674659f37d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/知识点/SVG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "149635d88c5f88a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/知识点/SVG.md",
+                "file": "CSS/知识点/自定义属性.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2af66f515ddc371a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/搭建开发环境.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c86de440af53e7f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/知识点/可变字体.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04a8ea9be66a2f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/CSS知识点.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5d12bf351f1dcca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#00ff00",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/知识点/SVG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/知识点/SVG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSS/知识点/SVG.md"
-              }
+              "state": {}
             }
           },
           {
@@ -239,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,19 +195,31 @@
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal all": false
     }
   },
-  "active": "149635d88c5f88a9",
+  "active": "c5d12bf351f1dcca",
   "lastOpenFiles": [
+    "CSS/CSS知识点.md",
+    "CSS/知识点/@font-face.md",
+    "CSS/知识点/@media.md",
+    "CSS/知识点/可变字体.md",
+    "CSS/知识点/inherited和initial.md",
+    "images",
+    "images/Pasted image 20230402203738.png",
+    "images/Pasted image 20230402203657.png",
+    "React/搭建开发环境.md",
+    "React/React学习路径.md",
+    "CSS/知识点/hsl()和hsla().md",
+    "CSS/知识点/自定义属性.md",
+    "CSS/知识点/SVG.md",
     "CSS/自定义属性.md",
     "CSS/可变字体.md",
     "CSS/SVG.md",
-    "CSS/CSS知识点.md",
     "CSS/知识点",
-    "CSS/知识点/SVG.md",
-    "CSS/知识点/自定义属性.md",
-    "CSS/知识点/可变字体.md",
     "TypeScript/interface.md",
     "CSS",
     "TypeScript/type.md",
@@ -274,17 +229,11 @@
     "TypeScript/数据类型.md",
     "TypeScript/编译配置(tsconfig.json).md",
     "Linux/命令/rm.md",
-    "React/React学习路径.md",
-    "React/搭建开发环境.md",
     "resExtByCostCenterMapper.getTaxTransList(param1).md",
     "HRM/按成本中心导出工资单/getReportData1().md",
     "HRM/按成本中心导出工资单.md",
     "HRM/按成本中心导出工资单/resExtByCostCenterMapper.getBeforeTaxTitle(param).md",
     "HRM/数据库表/pr_result_dtl.md",
-    "HRM/数据库表/pr_report_group.md",
-    "HRM/数据库表/pr_item_defn.md",
-    "HRM/按成本中心导出工资单/this.getReportTitlePart1.md",
-    "HRM/按成本中心导出工资单/this.getReportTitlePart2.md",
     "HRM/数据库表/未命名",
     "HRM/数据库表",
     "HRM/按成本中心导出工资单",
@@ -299,9 +248,6 @@
     "Excalidraw/Scripts/Downloaded/Alternative Pens.svg",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts"
+    "Excalidraw/Scripts/Downloaded"
   ]
 }

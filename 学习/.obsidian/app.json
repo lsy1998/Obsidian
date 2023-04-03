@@ -11,5 +11,8 @@
     "zh-CN",
     "en-US"
   ],
-  "vimMode": false
+  "vimMode": false,
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current",
+  "trashOption": "local"
 }
