@@ -65,9 +65,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f09ee5a56765ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HRM/数据库表/ee_employ_term.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/数据库表/at_except_attn_entry.md",
+                "file": "HRM/数据库表/ee_employ_term.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/数据库表/at_except_attn_entry.md",
+                "file": "HRM/数据库表/ee_employ_term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/数据库表/at_except_attn_entry.md"
+                "file": "HRM/数据库表/ee_employ_term.md"
               }
             }
           },
@@ -205,12 +217,15 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f21a97a7e80fd3d4",
+  "active": "4f09ee5a56765ae1",
   "lastOpenFiles": [
+    "Pasted image 20230403172124.png",
+    "Pasted image 20230403172054.png",
+    "HRM/数据库表/未命名.md",
+    "HRM/数据库表/at_except_attn_entry.md",
     "HRM/导出异常考勤.md",
     "HRM/数据库表/at_ee_attend_entry.md",
     "HRM/数据库表/at_attn_entry.md",
-    "HRM/数据库表/at_except_attn_entry.md",
     "HRM/数据库表/ee_job_dtl.md",
     "HRM/数据库表/termination_reason_defn.md",
     "HRM/数据库表/ee_employ_term.md",
@@ -239,8 +254,6 @@
     "HRM/按成本中心导出工资单/函数",
     "HRM/按成本中心导出工资单/按成本中心导出工资单.md",
     "HRM/数据库表/ee_payment_term.md",
-    "HRM/数据库表/pr_item_defn.md",
-    "HRM/数据库表/pr_pay_period_defn.md",
     "HRM/数据库表/未命名",
     "HRM/数据库表",
     "HRM/按成本中心导出工资单",
@@ -251,7 +264,6 @@
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts"
   ]
