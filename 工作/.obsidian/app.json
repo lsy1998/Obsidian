@@ -11,5 +11,6 @@
     "zh-CN",
     "en-US"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": true
 }
