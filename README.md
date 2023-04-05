@@ -1,1 +1,1 @@
-# you should add a remdme for each one of your projects
+# you should add a readme for each one of your projects
