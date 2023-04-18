@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/小技巧.md",
+                "file": "CSS/知识点/自定义属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/Oracle/Oracle获取日期.md",
+                "file": "CSS/知识点/自定义属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/Oracle/Floor().md"
+                "file": "CSS/知识点/自定义属性.md"
               }
             }
           },

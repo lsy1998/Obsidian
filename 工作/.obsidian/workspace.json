@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55831061b5a668d4",
+        "id": "adf1cdeed1811366",
         "type": "tabs",
         "children": [
           {
-            "id": "41aa17c2f04a297d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/导出异常考勤.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75a6b6677f3753c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/问题/关闭 Pagehelper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1e2e1ea4b86076a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/问题/pagehelper总数等于pagesize.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ae15a103b8971c0",
+            "id": "0e832087f24e83ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,56 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "308009095668184c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "HRM/images/Pasted image 20230301094743.png"
-              }
-            }
-          },
-          {
-            "id": "d969af6f03ba644d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/问题/el-table修改了值界面没变化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f21a97a7e80fd3d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/数据库表/at_except_attn_entry.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f09ee5a56765ae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/数据库表/ee_employ_term.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/问题/pagehelper总数等于pagesize.md",
+                "file": "HRM/问题/服务器 CPU 过载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/问题/pagehelper总数等于pagesize.md",
+                "file": "HRM/问题/服务器 CPU 过载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/问题/pagehelper总数等于pagesize.md"
+                "file": "HRM/问题/服务器 CPU 过载.md"
               }
             }
           },
@@ -220,9 +136,17 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "8c240e32258a342b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -238,21 +162,25 @@
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal all": false
     }
   },
-  "active": "d1e2e1ea4b86076a",
+  "active": "0e832087f24e83ec",
   "lastOpenFiles": [
     "HRM/问题/关闭 Pagehelper.md",
+    "HRM/问题/服务器 CPU 过载.md",
+    "HRM/问题/el-table修改了值界面没变化.md",
     "HRM/问题/pagehelper总数等于pagesize.md",
+    "Talent Profile/talent profile部署正式环境.md",
     "HRM/数据库表/ee_employ_term.md",
     "HRM/导出异常考勤.md",
     "HRM/未命名.md",
     "HRM/Vue Cli迁移到Vite.md",
-    "Talent Profile/talent profile部署正式环境.md",
-    "HRM/问题/服务器 CPU 过载.md",
     "HRM/images/Pasted image 20230301094743.png",
-    "HRM/问题/el-table修改了值界面没变化.md",
     "HRM/数据库表/at_except_attn_entry.md",
     "HRM/images/Pasted image 20230403172124.png",
     "HRM/images/Pasted image 20230403172054.png",
