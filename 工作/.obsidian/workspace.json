@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRM/数据库表/表/hr_ess_spec_tax_deduct_dtl.md",
+                "file": "HRM/同步专项扣除数据到eform.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/数据库表/表/hr_ess_spec_tax_deduct_dtl.md",
+                "file": "HRM/同步专项扣除数据到eform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/数据库表/表/hr_ess_spec_tax_deduct_dtl.md",
+                "file": "HRM/同步专项扣除数据到eform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/数据库表/表/hr_ess_spec_tax_deduct_dtl.md"
+                "file": "HRM/同步专项扣除数据到eform.md"
               }
             }
           },
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,16 +183,16 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "c45bb4c12154fec5",
+  "active": "c3a97eefb2be814d",
   "lastOpenFiles": [
+    "HRM/数据库表/表/hr_ess_spec_tax_deduct_dtl.md",
     "HRM/数据库表/程序包/pkg_epayslip",
     "HRM/同步专项扣除数据到eform.md",
-    "HRM/数据库表/表/hr_ess_spec_tax_deduct_dtl.md",
     "HRM/数据库表/程序包/pkg_epayslip/FNC_GEN_SPEC_TAX_DEDUCT_AMT.md",
-    "FNC_GEN_EPAYSLIP_BY_EE.md",
-    "PRC_SYNC_EPAYSLIP_BY_PAY_GROUP.md",
-    "PRC_SYNC_EPAYSLIP_BY_SITE.md",
-    "DBMS_JOB$_142.md",
+    "HRM/数据库表/程序包/pkg_epayslip/FNC_GEN_EPAYSLIP_BY_EE.md",
+    "HRM/数据库表/程序包/pkg_epayslip/PRC_SYNC_EPAYSLIP_BY_PAY_GROUP.md",
+    "HRM/数据库表/程序包/pkg_epayslip/PRC_SYNC_EPAYSLIP_BY_SITE.md",
+    "HRM/数据库表/调度程序/DBMS_JOB$_142.md",
     "HRM/数据库表/表/tx_spec_deduct_category_defn.md",
     "HRM/数据库表/未命名.md",
     "HRM/数据库表/程序包",
@@ -227,7 +228,6 @@
     "HRM/按成本中心导出工资单",
     "Talent Profile/启动talent profile&skill matrix.mp4",
     "other",
-    "Talent Profile",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg"
