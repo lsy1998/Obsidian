@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "467b25848a3a2179",
+        "id": "7a22943e92451fcc",
         "type": "tabs",
         "children": [
           {
-            "id": "d0e7e3f4364b6fca",
+            "id": "6460d2164581e347",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS/CSS代码规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS/CSS代码规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS/CSS代码规范.md"
+              }
             }
           },
           {
@@ -152,8 +156,9 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "d0e7e3f4364b6fca",
+  "active": "c45bb4c12154fec5",
   "lastOpenFiles": [
+    "2023-04-18.md",
     "CSS/知识点/自定义属性.md",
     "React/搭建开发环境.md",
     "CSS/知识点/可变字体.md",
@@ -195,7 +200,6 @@
     "CSS/知识点/hsl()和hsla().md",
     "CSS/知识点/SVG.md",
     "CSS/自定义属性.md",
-    "CSS/可变字体.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
