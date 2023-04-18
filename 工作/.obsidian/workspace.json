@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRM/问题/服务器 CPU 过载.md",
+                "file": "HRM/数据库表/tx_spec_deduct_category_defn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/问题/服务器 CPU 过载.md",
+                "file": "HRM/数据库表/tx_spec_deduct_category_defn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/问题/服务器 CPU 过载.md",
+                "file": "HRM/数据库表/tx_spec_deduct_category_defn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/问题/服务器 CPU 过载.md"
+                "file": "HRM/数据库表/tx_spec_deduct_category_defn.md"
               }
             }
           },
@@ -171,8 +171,11 @@
   },
   "active": "0e832087f24e83ec",
   "lastOpenFiles": [
-    "HRM/问题/关闭 Pagehelper.md",
+    "HRM/数据库表/at_ee_attend_entry.md",
+    "HRM/数据库表/at_except_attn_entry.md",
+    "HRM/数据库表/tx_spec_deduct_category_defn.md",
     "HRM/问题/服务器 CPU 过载.md",
+    "HRM/问题/关闭 Pagehelper.md",
     "HRM/问题/el-table修改了值界面没变化.md",
     "HRM/问题/pagehelper总数等于pagesize.md",
     "Talent Profile/talent profile部署正式环境.md",
@@ -181,11 +184,8 @@
     "HRM/未命名.md",
     "HRM/Vue Cli迁移到Vite.md",
     "HRM/images/Pasted image 20230301094743.png",
-    "HRM/数据库表/at_except_attn_entry.md",
     "HRM/images/Pasted image 20230403172124.png",
     "HRM/images/Pasted image 20230403172054.png",
-    "HRM/数据库表/未命名.md",
-    "HRM/数据库表/at_ee_attend_entry.md",
     "HRM/数据库表/at_attn_entry.md",
     "HRM/数据库表/ee_job_dtl.md",
     "HRM/数据库表/termination_reason_defn.md",
