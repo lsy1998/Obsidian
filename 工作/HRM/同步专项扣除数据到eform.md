@@ -9,7 +9,7 @@
 
 5. 调用[[FNC_GEN_SPEC_TAX_DEDUCT_AMT]] 
 
-6. 通过dblink将数据插入eform数据库[[hr_ess_spec_tax_deduct_dtl]]
+6. 通过dblink将数据插入eform数据库 [[hr_ess_spec_tax_deduct_dtl]]
 
 ```sql
 CURSOR cur_pr_spec_tax_deduct_dtl (piv_ee_id            IN VARCHAR2,
