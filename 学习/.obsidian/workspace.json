@@ -4,115 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5ee5fe82b4734295",
+        "id": "467b25848a3a2179",
         "type": "tabs",
         "children": [
           {
-            "id": "149635d88c5f88a9",
+            "id": "d0e7e3f4364b6fca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/知识点/自定义属性.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2af66f515ddc371a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/搭建开发环境.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c86de440af53e7f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/知识点/可变字体.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04a8ea9be66a2f4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/CSS知识点.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5d12bf351f1dcca",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "b2b4475ab6df79c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/CSS知识点.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89f93e63be755943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/CSS代码规范.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6131785a814c9b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/权限修饰符.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55ab1b530f51596e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/小技巧.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/知识点/自定义属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/知识点/自定义属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSS/知识点/自定义属性.md"
-              }
+              "state": {}
             }
           },
           {
@@ -253,17 +152,25 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "c45bb4c12154fec5",
+  "active": "d0e7e3f4364b6fca",
   "lastOpenFiles": [
+    "CSS/知识点/自定义属性.md",
+    "React/搭建开发环境.md",
+    "CSS/知识点/可变字体.md",
+    "CSS/CSS知识点.md",
+    "CSS/CSS代码规范.md",
     "TypeScript/权限修饰符.md",
+    "TypeScript/小技巧.md",
+    "VS Code/{.vscode}.md",
+    "ESlint/基础操作.md",
+    "VS Code/未命名.md",
+    "ESlint",
+    "VS Code",
     "数据库/Oracle/Floor().md",
     "数据库/Oracle/Oracle获取日期.md",
-    "TypeScript/小技巧.md",
     "数据库/Oracle/attachments/Pasted image 20230406095546.png",
     "数据库/Oracle/attachments",
-    "CSS/CSS代码规范.md",
     "数据库/Oracle/Oracle获取日期.md",
-    "CSS/CSS知识点.md",
     "CSS/attachments/Pasted image 20230404194945.png",
     "CSS/知识点/align-content,justify-content,align-items,justify-items.md",
     "CSS/attachments/Pasted image 20230404194422.png",
@@ -280,24 +187,15 @@
     "CSS/知识点/未命名.md",
     "CSS/知识点/@font-face.md",
     "CSS/知识点/@media.md",
-    "CSS/知识点/可变字体.md",
     "CSS/知识点/inherited和initial.md",
     "images",
     "images/Pasted image 20230402203738.png",
     "images/Pasted image 20230402203657.png",
-    "React/搭建开发环境.md",
     "React/React学习路径.md",
     "CSS/知识点/hsl()和hsla().md",
-    "CSS/知识点/自定义属性.md",
     "CSS/知识点/SVG.md",
     "CSS/自定义属性.md",
     "CSS/可变字体.md",
-    "CSS/SVG.md",
-    "CSS/知识点",
-    "TypeScript/interface.md",
-    "CSS",
-    "TypeScript/type.md",
-    "TypeScript/abstract.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
