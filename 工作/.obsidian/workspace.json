@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3a97eefb2be814d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HRM/同步专项扣除数据到eform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/数据库表/tx_spec_deduct_category_defn.md",
+                "file": "HRM/同步专项扣除数据到eform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/数据库表/tx_spec_deduct_category_defn.md",
+                "file": "HRM/同步专项扣除数据到eform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/数据库表/tx_spec_deduct_category_defn.md"
+                "file": "HRM/同步专项扣除数据到eform.md"
               }
             }
           },
@@ -169,11 +182,12 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "0e832087f24e83ec",
+  "active": "c3a97eefb2be814d",
   "lastOpenFiles": [
+    "HRM/数据库表/tx_spec_deduct_category_defn.md",
+    "HRM/同步专项扣除数据到eform.md",
     "HRM/数据库表/at_ee_attend_entry.md",
     "HRM/数据库表/at_except_attn_entry.md",
-    "HRM/数据库表/tx_spec_deduct_category_defn.md",
     "HRM/问题/服务器 CPU 过载.md",
     "HRM/问题/关闭 Pagehelper.md",
     "HRM/问题/el-table修改了值界面没变化.md",
@@ -181,7 +195,6 @@
     "Talent Profile/talent profile部署正式环境.md",
     "HRM/数据库表/ee_employ_term.md",
     "HRM/导出异常考勤.md",
-    "HRM/未命名.md",
     "HRM/Vue Cli迁移到Vite.md",
     "HRM/images/Pasted image 20230301094743.png",
     "HRM/images/Pasted image 20230403172124.png",
