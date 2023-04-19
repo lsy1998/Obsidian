@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRM/数据库表/程序包/pkg_payroll/FNC_BEFORE_PAYROLL_EVENTS.md",
+                "file": "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/数据库表/程序包/pkg_payroll/FNC_BEFORE_PAYROLL_EVENTS.md",
+                "file": "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/数据库表/程序包/pkg_payroll/FNC_BEFORE_PAYROLL_EVENTS.md",
+                "file": "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/数据库表/程序包/pkg_payroll/FNC_BEFORE_PAYROLL_EVENTS.md"
+                "file": "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md"
               }
             }
           },
