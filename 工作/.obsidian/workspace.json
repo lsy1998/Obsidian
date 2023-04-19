@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRM/数据库表/表/tx_spec_deduct_category_defn.md",
+                "file": "HRM/数据库表/程序包/pkg_payroll/FNC_BEFORE_PAYROLL_EVENTS.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRM/数据库表/程序包/pkg_payroll/FNC_BEFORE_PAYROLL_EVENTS.md",
+                "file": "HRM/数据库表/表/PR_TAX_RETURN_DTL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,16 +194,21 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "478a7bd660c0a147",
+  "active": "0e832087f24e83ec",
   "lastOpenFiles": [
+    "HRM/数据库表/程序包/pkg_payroll/FNC_AFTER_PAYROLL_EVENTS.md",
+    "HRM/数据库表/程序包/pkg_payroll/FNC_BEFORE_PAYROLL_EVENTS.md",
+    "HRM/数据库表/表/WRK_PR_COST_CENTER_RESULT.md",
+    "HRM/数据库表/表/PR_COST_CENTER_RESULT.md",
+    "HRM/数据库表/表/tx_spec_deduct_category_defn.md",
+    "HRM/数据库表/表/PR_TAX_RETURN_DTL.md",
+    "HRM/数据库表/程序包/pkg_epayslip/PRC_SYNC_EPAYSLIP_BY_SITE.md",
     "HRM/工资计算.md",
+    "HRM/数据库表/表/PR_RESULT.md",
     "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
     "HRM/数据库表/表/LV_EE_LEAVE_BAL.md",
-    "HRM/数据库表/程序包/pkg_payroll/FNC_AFTER_PAYROLL_EVENTS.md",
     "HRM/数据库表/表/PR_LEAVE_BAL_DTL.md",
-    "HRM/数据库表/程序包/pkg_payroll/FNC_BEFORE_PAYROLL_EVENTS.md",
     "HRM/数据库表/程序包/pkg_share_src",
-    "HRM/数据库表/程序包/pkg_epayslip/PRC_SYNC_EPAYSLIP_BY_SITE.md",
     "HRM/数据库表/程序包/pkg_payroll",
     "HRM/数据库表/程序包/pkg_epayslip/PRC_SYNC_EPAYSLIP_BY_PAY_GROUP.md",
     "HRM/数据库表/程序包/pkg_epayslip/FNC_GEN_EPAYSLIP_BY_EE.md",
@@ -213,7 +217,6 @@
     "HRM/数据库表/表/hr_ess_spec_tax_deduct_dtl.md",
     "HRM/数据库表/程序包/pkg_epayslip",
     "HRM/数据库表/调度程序/DBMS_JOB$_142.md",
-    "HRM/数据库表/表/tx_spec_deduct_category_defn.md",
     "HRM/数据库表/未命名.md",
     "HRM/数据库表/程序包",
     "HRM/数据库表/调度程序",
@@ -225,13 +228,9 @@
     "HRM/问题/el-table修改了值界面没变化.md",
     "HRM/问题/pagehelper总数等于pagesize.md",
     "Talent Profile/talent profile部署正式环境.md",
-    "HRM/数据库表/表/ee_employ_term.md",
-    "HRM/导出异常考勤.md",
-    "HRM/Vue Cli迁移到Vite.md",
     "HRM/images/Pasted image 20230301094743.png",
     "HRM/images/Pasted image 20230403172124.png",
     "HRM/images/Pasted image 20230403172054.png",
-    "HRM/数据库表/表/at_attn_entry.md",
     "HRM/images/Pasted image 20230301094909.png",
     "HRM/images/Pasted image 20230301095113.png",
     "HRM/images/Pasted image 20230329151919.png",
