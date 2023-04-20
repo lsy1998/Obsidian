@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 252.5
   },
   "right": {
     "id": "52773f3be8961ad0",
@@ -195,17 +195,17 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "c45bb4c12154fec5",
+  "active": "777676bb21fb1c90",
   "lastOpenFiles": [
-    "HRM/数据库表/表/pay_results.md",
+    "HRM/数据库表/表/PR_TAX_RETURN_DTL.md",
     "HRM/数据库表/程序包/pkg_tax/FNC_G_TAX_RETN_CAL.md",
+    "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
+    "HRM/数据库表/表/pay_results.md",
     "HRM/数据库表/程序包/pkg_tax/fnc_g_spec_tax_retn_cal.md",
     "HRM/数据库表/表/pr_spec_tax_deduct_dtl.md",
-    "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
     "HRM/数据库表/程序包/pkg_tax",
     "HRM/数据库表/表/POLICY_CONTROL_DTL.md",
     "HRM/数据库表/程序包/pkg_epayslip/PRC_SYNC_EPAYSLIP_BY_SITE.md",
-    "HRM/数据库表/表/PR_TAX_RETURN_DTL.md",
     "PKG_SHARE_SRC.md",
     "HRM/HRM.zip",
     "HRM/数据库表/程序包/pkg_payroll/FNC_AFTER_PAYROLL_EVENTS.md",
