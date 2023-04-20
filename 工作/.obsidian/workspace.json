@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "777676bb21fb1c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HRM/数据库表/程序包/pkg_tax/FNC_G_TAX_RETN_CAL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "478a7bd660c0a147",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
+                "file": "HRM/数据库表/程序包/pkg_tax/FNC_G_TAX_RETN_CAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
+                "file": "HRM/数据库表/程序包/pkg_tax/FNC_G_TAX_RETN_CAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md"
+                "file": "HRM/数据库表/程序包/pkg_tax/FNC_G_TAX_RETN_CAL.md"
               }
             }
           },
@@ -182,9 +195,14 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "c3a97eefb2be814d",
+  "active": "c45bb4c12154fec5",
   "lastOpenFiles": [
+    "HRM/数据库表/表/pay_results.md",
+    "HRM/数据库表/程序包/pkg_tax/FNC_G_TAX_RETN_CAL.md",
+    "HRM/数据库表/程序包/pkg_tax/fnc_g_spec_tax_retn_cal.md",
+    "HRM/数据库表/表/pr_spec_tax_deduct_dtl.md",
     "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
+    "HRM/数据库表/程序包/pkg_tax",
     "HRM/数据库表/表/POLICY_CONTROL_DTL.md",
     "HRM/数据库表/程序包/pkg_epayslip/PRC_SYNC_EPAYSLIP_BY_SITE.md",
     "HRM/数据库表/表/PR_TAX_RETURN_DTL.md",
@@ -213,10 +231,6 @@
     "HRM/数据库表/调度程序",
     "HRM/数据库表/表",
     "HRM/数据库表/表/at_ee_attend_entry.md",
-    "HRM/数据库表/表/at_except_attn_entry.md",
-    "HRM/问题/服务器 CPU 过载.md",
-    "HRM/问题/关闭 Pagehelper.md",
-    "HRM/问题/el-table修改了值界面没变化.md",
     "HRM/images/Pasted image 20230301094743.png",
     "HRM/images/Pasted image 20230403172124.png",
     "HRM/images/Pasted image 20230403172054.png",
@@ -227,7 +241,6 @@
     "HRM/Diagram.svg",
     "未命名.canvas",
     "HRM/按成本中心导出工资单/函数",
-    "HRM/数据库表",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg"
