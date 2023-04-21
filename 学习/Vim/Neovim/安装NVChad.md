@@ -11,3 +11,4 @@ git clone https://github.com/NvChad/NvChad $HOME\AppData\Local\nvim --depth 1
 ## 其他问题
 因为网络原因可能nvim初始化可能失败，需多次尝试
 如果有模块找不到也是网络原因
+![[lazy.nvim-9.14.5.zip]]

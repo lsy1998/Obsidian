@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VS Code/{.vscode}.md",
+                "file": "Vim/Neovim/安装NVChad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VS Code/{.vscode}.md",
+                "file": "Vim/Neovim/安装NVChad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VS Code/{.vscode}.md",
+                "file": "Vim/Neovim/安装NVChad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VS Code/{.vscode}.md"
+                "file": "Vim/Neovim/安装NVChad.md"
               }
             }
           }
@@ -154,6 +154,9 @@
   },
   "active": "b6145d5a26e91db7",
   "lastOpenFiles": [
+    "Vim/Neovim/attachments/lazy.nvim-9.14.5.zip",
+    "Vim/Neovim/attachments",
+    "VS Code/{.vscode}.md",
     "Vim/Neovim/安装NVChad.md",
     "Vim/Neovim",
     "Vim",
