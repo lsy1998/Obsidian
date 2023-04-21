@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "e7591a5402570ef8",
+    "id": "130c0f7a7c0d485d",
     "type": "split",
     "children": [
       {
-        "id": "f6d76b6851106d85",
+        "id": "b570fb6b9f915698",
         "type": "tabs",
         "children": [
           {
-            "id": "b6145d5a26e91db7",
+            "id": "5fe73a5acd77d101",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vim/Neovim/安装NVChad.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4a21c286294a2426",
+    "id": "d9c66daabc4704d4",
     "type": "split",
     "children": [
       {
-        "id": "bacce06c152270c8",
+        "id": "8ca8554d8ad14d74",
         "type": "tabs",
         "children": [
           {
-            "id": "e5422b5e9ffba35a",
+            "id": "8d0841c1e3694ce3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "0055b6d4feeafe5b",
+            "id": "00c4853fad76b39a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "71835ccffe6b2be6",
+            "id": "439aedebf6fc6e7b",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "fe4ad8eadeccb053",
+    "id": "e660063667c6e541",
     "type": "split",
     "children": [
       {
-        "id": "5e42d9cbb2f05dc0",
+        "id": "065a9773a2956092",
         "type": "tabs",
         "children": [
           {
-            "id": "40e6fd4cea67556e",
+            "id": "a9b451951368c9ba",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim/Neovim/安装NVChad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "5320ce18c4b2bbf5",
+            "id": "91920ab2ffd9d64b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim/Neovim/安装NVChad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0c4d9536f3e3cd88",
+            "id": "aa9a5be3b9675683",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "36365a2b4c7772a9",
+            "id": "72e55e60db885538",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vim/Neovim/安装NVChad.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,14 +144,6 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "b6145d5a26e91db7",
-  "lastOpenFiles": [
-    "Vim/Neovim/attachments/lazy.nvim-9.14.5.zip",
-    "Vim/Neovim/attachments",
-    "VS Code/{.vscode}.md",
-    "Vim/Neovim/安装NVChad.md",
-    "Vim/Neovim",
-    "Vim",
-    "Linux/未命名"
-  ]
+  "active": "5fe73a5acd77d101",
+  "lastOpenFiles": []
 }
