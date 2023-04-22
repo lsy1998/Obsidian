@@ -11,8 +11,12 @@
             "id": "5fe73a5acd77d101",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vim/Neovim/安装NVChad.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -24,7 +28,7 @@
     "id": "d9c66daabc4704d4",
     "type": "split",
     "children": [
-      { 
+      {
         "id": "8ca8554d8ad14d74",
         "type": "tabs",
         "children": [
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vim/Neovim/安装NVChad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vim/Neovim/安装NVChad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vim/Neovim/安装NVChad.md"
+              }
             }
           }
         ]
@@ -145,5 +153,12 @@
     }
   },
   "active": "5fe73a5acd77d101",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "数据库/Oracle/Floor().md",
+    "Vim/Neovim/安装NVChad.md",
+    "Vim/Neovim/attachments/lazy.nvim-9.14.5.zip",
+    "Vim/Neovim/attachments",
+    "Vim/Neovim",
+    "Vim"
+  ]
 }
