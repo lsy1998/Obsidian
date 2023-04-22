@@ -12,7 +12,7 @@
             "type": "leaf",
             "state": {
               "type": "markdown",
-              "state": {
+              "state": { 
                 "file": "HRM/按成本中心导出工资单/getReportData1().md",
                 "mode": "source",
                 "backlinks": true,
