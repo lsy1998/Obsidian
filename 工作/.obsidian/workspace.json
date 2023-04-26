@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06ac318aefa23d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HRM/添加数据字典.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/部署正式环境20230426.md",
+                "file": "HRM/添加数据字典.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/部署正式环境20230426.md",
+                "file": "HRM/添加数据字典.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/部署正式环境20230426.md"
+                "file": "HRM/添加数据字典.md"
               }
             }
           },
@@ -183,10 +195,11 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "40483479531625d1",
+  "active": "06ac318aefa23d47",
   "lastOpenFiles": [
-    "HRM/HRM培训模块部署正式环境.md",
     "HRM/部署正式环境20230426.md",
+    "HRM/添加数据字典.md",
+    "HRM/HRM培训模块部署正式环境.md",
     "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
     "Excalidraw/Drawing 2023-03-27 11.33.44.excalidraw.md",
     "Talent Profile/talent profile部署正式环境.md",
@@ -214,7 +227,6 @@
     "HRM/数据库表/程序包/pkg_share_src",
     "HRM/数据库表/程序包/pkg_payroll",
     "HRM/数据库表/程序包/pkg_epayslip/PRC_SYNC_EPAYSLIP_BY_PAY_GROUP.md",
-    "HRM/数据库表/程序包/pkg_epayslip/FNC_GEN_EPAYSLIP_BY_EE.md",
     "HRM/数据库表/程序包/pkg_epayslip",
     "HRM/数据库表/程序包",
     "HRM/数据库表/调度程序",
