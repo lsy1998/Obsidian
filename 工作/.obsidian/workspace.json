@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "134b58cdb02d53bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HRM/表添加字段.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/添加数据字典.md",
+                "file": "HRM/表添加字段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/添加数据字典.md",
+                "file": "HRM/表添加字段.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/添加数据字典.md"
+                "file": "HRM/表添加字段.md"
               }
             }
           },
@@ -195,10 +207,11 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "06ac318aefa23d47",
+  "active": "134b58cdb02d53bc",
   "lastOpenFiles": [
-    "HRM/部署正式环境20230426.md",
     "HRM/添加数据字典.md",
+    "HRM/表添加字段.md",
+    "HRM/部署正式环境20230426.md",
     "HRM/HRM培训模块部署正式环境.md",
     "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
     "Excalidraw/Drawing 2023-03-27 11.33.44.excalidraw.md",
@@ -226,7 +239,6 @@
     "HRM/数据库表/表/PR_LEAVE_BAL_DTL.md",
     "HRM/数据库表/程序包/pkg_share_src",
     "HRM/数据库表/程序包/pkg_payroll",
-    "HRM/数据库表/程序包/pkg_epayslip/PRC_SYNC_EPAYSLIP_BY_PAY_GROUP.md",
     "HRM/数据库表/程序包/pkg_epayslip",
     "HRM/数据库表/程序包",
     "HRM/数据库表/调度程序",
