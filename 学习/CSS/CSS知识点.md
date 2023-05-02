@@ -11,3 +11,4 @@
 11. [[align-content,justify-content,align-items,justify-items]]
 12. [[aspect-ratio]]
 13. [[margin-inline]]
+14. [[@property]]
