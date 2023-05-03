@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim/Neovim/删除配置.md",
+                "file": "CSS/CSS代码规范.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim/Neovim/删除配置.md",
+                "file": "CSS/CSS代码规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim/Neovim/删除配置.md",
+                "file": "CSS/CSS代码规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim/Neovim/删除配置.md"
+                "file": "CSS/CSS代码规范.md"
               }
             }
           }
@@ -154,8 +154,10 @@
   },
   "active": "6131206b4dac1ece",
   "lastOpenFiles": [
-    "Vim/Neovim/安装NVChad.md",
+    "CSS/CSS知识点.md",
+    "CSS/CSS代码规范.md",
     "Vim/Neovim/删除配置.md",
+    "Vim/Neovim/安装NVChad.md",
     "数据库/Oracle/Floor().md",
     "Vim/Neovim/attachments/lazy.nvim-9.14.5.zip",
     "Vim/Neovim/attachments",
