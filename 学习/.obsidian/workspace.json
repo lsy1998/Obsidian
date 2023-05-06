@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/知识点/可变字体.md",
+                "file": "Vue/自定义指令1.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d521274c4755af79",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -43,16 +32,6 @@
         "id": "8ca8554d8ad14d74",
         "type": "tabs",
         "children": [
-          {
-            "id": "8d0841c1e3694ce3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "00c4853fad76b39a",
             "type": "leaf",
@@ -84,11 +63,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 757.5
   },
   "right": {
     "id": "e660063667c6e541",
@@ -104,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/知识点/可变字体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/知识点/可变字体.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSS/知识点/可变字体.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,11 +144,18 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "audio-recorder:开始/结束录音": false
+      "audio-recorder:开始/结束录音": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d521274c4755af79",
+  "active": "439aedebf6fc6e7b",
   "lastOpenFiles": [
+    "Vue/自定义指令1.md",
+    "Excalidraw/Drawing 2023-05-06 11.00.41.excalidraw.md",
+    "Excalidraw",
+    "Untitled Diagram.svg",
+    "CSS/知识点/可变字体.md",
+    "Vue",
     "CSS/知识点/@property.md",
     "CSS/知识点/@media.md",
     "CSS/知识点/@font-face.md",
