@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/自定义指令1.md",
+                "file": "ESlint/基础操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,27 +48,29 @@
             }
           },
           {
-            "id": "439aedebf6fc6e7b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "aea1d6636945be40",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "faff4e856c99c6b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 757.5
+    "width": 217.5
   },
   "right": {
     "id": "e660063667c6e541",
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ESlint/基础操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ESlint/基础操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ESlint/基础操作.md"
+              }
             }
           }
         ]
@@ -148,7 +154,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "439aedebf6fc6e7b",
+  "active": "6131206b4dac1ece",
   "lastOpenFiles": [
     "Vue/自定义指令1.md",
     "Excalidraw/Drawing 2023-05-06 11.00.41.excalidraw.md",
