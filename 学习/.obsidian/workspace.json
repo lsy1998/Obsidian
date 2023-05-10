@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/国际化.md",
+                "file": "ESlint/基础操作.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "20ad458a93669fd4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,6 +87,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f8e117b9596bfa31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/国际化.md",
+                "file": "ESlint/基础操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/国际化.md",
+                "file": "ESlint/基础操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/国际化.md"
+                "file": "ESlint/基础操作.md"
               }
             }
           }
@@ -165,10 +183,11 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "fcda7099cbb6279d",
+  "active": "20ad458a93669fd4",
   "lastOpenFiles": [
-    "CSS/CSS代码规范.md",
+    "VS Code/{.vscode}.md",
     "Vue/国际化.md",
+    "CSS/CSS代码规范.md",
     "Vue",
     "CSS/CSS知识点.md",
     "Vim/Neovim/删除配置.md",
