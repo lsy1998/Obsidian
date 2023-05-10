@@ -5,11 +5,7 @@
 # 部署前准备
 
 ### 1. 代码
-修改后端数据库调用dblink的相关代码
-1. 教育经历(已修改)
-2. 培训记录(已修改)
-3. 主数据同步(已修改)
-
+#### 修改代码
 修改相关配置文件，如后端目录路径，前段baseurl
 ```
 D:/Skill_Matrix/file/sundry
@@ -19,7 +15,19 @@ D:/Skill_Matrix/file/sundry
 VUE_APP_BASE_API = '//cngua01ms084:9008'
 ```
 
-编译前后端
+#### 编译前后端
+**后端:**
+```shell
+通过IDEA打包
+clean -> compile -> package
+```
+
+**前端:**
+```shell
+npm run build:prod
+```
+
+
 
 ### 2. 数据库
 创建dblink(已创建)

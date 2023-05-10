@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRM/表添加字段.md",
+                "file": "Talent Profile/talent profile部署正式环境.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/表添加字段.md",
+                "file": "Talent Profile/talent profile部署正式环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/表添加字段.md",
+                "file": "Talent Profile/talent profile部署正式环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/表添加字段.md"
+                "file": "Talent Profile/talent profile部署正式环境.md"
               }
             }
           },
@@ -241,11 +241,11 @@
   },
   "active": "134b58cdb02d53bc",
   "lastOpenFiles": [
+    "HRM/表添加字段.md",
     "HRM/上传文件.md",
     "HRM/添加数据字典.md",
     "Talent Profile/el-tooltip内部循环失效.md",
     "HRM/部署正式环境20230426.md",
-    "HRM/表添加字段.md",
     "HRM/HRM培训模块部署正式环境.md",
     "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
     "Excalidraw/Drawing 2023-03-27 11.33.44.excalidraw.md",
