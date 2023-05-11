@@ -14,6 +14,21 @@ D:/Skill_Matrix/file/sundry
 ```
 VUE_APP_BASE_API = '//cngua01ms084:9008'
 ```
+修改端口号
+
+```js
+const port = process.env.port || process.env.npm_config_port || 82 -> 80
+
+target: `http://localhost:8090` -> `http://localhost:8088`,
+```
+
+```xml
+# 开发环境配置  
+server:  
+  # 服务器的HTTP端口，默认为8080  
+  port: 8090 -> 8088
+```
+
 
 #### 编译前后端
 **后端:**
@@ -33,18 +48,10 @@ npm run build:prod
 创建dblink(已创建)
 创建视图(已创建)
 
+### 3. 上传模版
+
 # 部署步骤
 ### 1. 关掉测试环境，关掉测试环境定时任务
 ### 2. 备份正式环境
 ### 3. 部署前后端
-
-```dataview
-table file.name, file.tags from "" where file.extension = "md"
-```
-```dataview
-table file.name as "文件名", file.modified as "修改时间"
-from "" 
-sort file.modified desc
-limit 10
-```
 
