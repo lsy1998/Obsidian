@@ -16,13 +16,13 @@ VUE_APP_BASE_API = '//cngua01ms084:9008'
 ```
 修改端口号
 
-```js
+```vue.config.js
 const port = process.env.port || process.env.npm_config_port || 82 -> 80
 
 target: `http://localhost:8090` -> `http://localhost:8088`,
 ```
 
-```xml
+```application.xml
 # 开发环境配置  
 server:  
   # 服务器的HTTP端口，默认为8080  
