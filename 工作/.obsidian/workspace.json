@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4085ef20f9a2c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Talent Profile/talent profile部署正式环境.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -239,7 +251,7 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "134b58cdb02d53bc",
+  "active": "f4085ef20f9a2c9b",
   "lastOpenFiles": [
     "HRM/表添加字段.md",
     "HRM/上传文件.md",
