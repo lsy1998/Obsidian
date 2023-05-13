@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/自定义指令1.md",
+                "file": "Others/面试/Promise.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/自定义指令1.md",
+                "file": "Others/面试/Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/自定义指令1.md",
+                "file": "Others/面试/Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/自定义指令1.md"
+                "file": "Others/面试/Promise.md"
               }
             }
           }
@@ -154,10 +154,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "faff4e856c99c6b6",
+  "active": "6131206b4dac1ece",
   "lastOpenFiles": [
-    "ESlint/基础操作.md",
+    "Others/面试/生命周期.md",
+    "Others/面试/Promise.md",
     "Vue/自定义指令1.md",
+    "Others/面试",
+    "Others",
+    "ESlint/基础操作.md",
     "Excalidraw/Drawing 2023-05-06 11.00.41.excalidraw.md",
     "Excalidraw",
     "Untitled Diagram.svg",
