@@ -33,7 +33,9 @@ getData("https://example.com/todos/1")
 
 ## 知识点
 #### await
-await会让返回的promise变成直接返回promise的resolve或reject的值
+await是一个运算符，用于等待一个表达式的结果，它只能在异步函数（async function）中使用。
+await可以等待一个Promise对象，也可以等待一个普通的值。如果等待的是一个Promise对象，await会阻塞后面的代码，直到Promise对象被兑现（resolve）或拒绝（reject），并返回其兑现的值或抛出拒绝的原因。如果等待的是一个普通的值，await会直接返回该值。
+await可以用于等待异步函数的返回值，也可以用于等待其他的异步操作，比如setTimeout，fetch等。
 #### then
 then方法是Promise对象的一个方法，它可以接受两个参数，分别是onFulfilled和onRejected。onFulfilled是一个函数，它会在Promise状态变为fulfilled时被调用，onRejected是一个函数，它会在Promise状态变为rejected时被调用。如果你只传递了onFulfilled参数，那么then方法只有在Promise状态变为fulfilled时才会被调用。如果你想在Promise状态变为rejected时也有相应的处理，你可以传递第二个参数onRejected，或者使用catch方法。
 #### catch
