@@ -129,13 +129,21 @@
                 "file": "Others/面试/Promise.md"
               }
             }
+          },
+          {
+            "id": "7cb1fed66bc2f540",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +164,8 @@
   },
   "active": "6131206b4dac1ece",
   "lastOpenFiles": [
+    "Others/面试/attachments/Pasted image 20230514165735.png",
+    "Others/面试/attachments",
     "Others/面试/生命周期.md",
     "Others/面试/Promise.md",
     "Vue/自定义指令1.md",
