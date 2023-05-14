@@ -34,6 +34,11 @@ getData("https://example.com/todos/1")
 ## API
 #### Promise.all
 并行执行多个 Promise 对象，并在所有 Promise 对象都成功时返回结果。
+promise.all 是一个 JavaScript 的方法，它接收一个 promise 的可迭代对象（如数组或字符串）作为参数，并返回一个新的 promise 对象。这个新的 promise 对象的状态和结果取决于传入的 promise 对象的状态和结果。
+如果传入的可迭代对象是空的，或者不包含任何 promise 对象，那么 promise.all 会同步地返回一个已完成（resolved）状态的 promise 对象，它的结果是一个空数组。
+如果传入的可迭代对象包含至少一个 promise 对象，那么 promise.all 会异步地等待所有的 promise 对象都完成（resolved）或有一个失败（rejected）。
+如果所有的 promise 对象都完成了，那么 promise.all 返回的 promise 对象也会完成，它的结果是一个包含所有传入的 promise 对象的结果的数组，数组中的顺序和传入的顺序一致。
+如果有任何一个 promise 对象失败了，那么 promise.all 返回的 promise 对象也会失败，它的结果是第一个失败的 promise 对象的原因。
 ```js
 const promise1 = getData("/api/data1");  
 const promise2 = getData("/api/data2");  
