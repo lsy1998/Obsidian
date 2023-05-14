@@ -39,6 +39,13 @@ promise.all 是一个 JavaScript 的方法，它接收一个 promise 的可迭�
 如果传入的可迭代对象包含至少一个 promise 对象，那么 promise.all 会异步地等待所有的 promise 对象都完成（resolved）或有一个失败（rejected）。
 如果所有的 promise 对象都完成了，那么 promise.all 返回的 promise 对象也会完成，它的结果是一个包含所有传入的 promise 对象的结果的数组，数组中的顺序和传入的顺序一致。
 如果有任何一个 promise 对象失败了，那么 promise.all 返回的 promise 对象也会失败，它的结果是第一个失败的 promise 对象的原因。
+| 输入                        | 输出                                                                                                |
+| --------------------------- | --------------------------------------------------------------------------------------------------- |
+| 空数组                      | Promise { "fulfilled", [] }                                                                         |
+| 非 promise 值               | Promise { "fulfilled", [输入值] }                                                                   |
+| 已完成或已失败的 promise 值 | Promise { 第一个失败的 promise 的状态, 第一个失败的 promise 的原因或所有成功的 promise 的结果数组 } |
+| 未完成或未失败的 promise 值 | Promise { "pending" }                                                                               |
+|                             |                                                                                                     |
 ![[Pasted image 20230514165735.png]]
 ```js
 const promise1 = getData("/api/data1");  
@@ -119,3 +126,4 @@ console.log("baz"); // 这个语句会先于上面的函数执行
 ```
 
 •  因此，可以说**promise不管包装的是什么内容都会有一定程度的异步性，但这并不意味着它们都会产生新的异步操作。这取决于promise内部如何触发状态转换和结果值传递**。
+
