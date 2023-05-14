@@ -33,7 +33,29 @@ getData("https://example.com/todos/1")
 
 ## API
 #### Promise.all
+并行执行多个 Promise 对象，并在所有 Promise 对象都成功时返回结果。
+```js
+const promise1 = getData("/api/data1");  
+const promise2 = getData("/api/data2");  
+  
+Promise.all([promise1, promise2])  
+  .then(([data1, data2]) => {  
+    console.log(data1);  
+    console.log(data2);  
+  })  
+  .catch((error) => console.error(error));
+```
+
 #### Promise.race
+Promise.race() 方法可以竞速执行多个 Promise 对象，并返回第一个完成的 Promise 对象的结果。
+```js
+const promise1 = new Promise((resolve) => setTimeout(() => resolve("result1"), 1000));  
+const promise2 = new Promise((resolve) => setTimeout(() => resolve("result2"), 500));  
+  
+Promise.race([promise1, promise2])  
+  .then((result) => console.log(result))  
+  .catch((error) => console.error(error));
+```
 
 ## 相关知识点
 #### await
