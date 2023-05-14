@@ -31,7 +31,11 @@ getData("https://example.com/todos/1")
   .catch((error) => console.error(error));
 ```
 
-## 知识点
+## API
+#### Promise.all
+#### Promise.race
+
+## 相关知识点
 #### await
 await是一个运算符，用于等待一个表达式的结果，它只能在异步函数（async function）中使用。
 await可以等待一个Promise对象，也可以等待一个普通的值。如果等待的是一个Promise对象，await会阻塞后面的代码，直到Promise对象被兑现（resolve）或拒绝（reject），并返回其兑现的值或抛出拒绝的原因。如果等待的是一个普通的值，await会直接返回该值。
