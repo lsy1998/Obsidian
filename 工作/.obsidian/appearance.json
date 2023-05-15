@@ -2,7 +2,7 @@
   "accentColor": "",
   "translucency": false,
   "nativeMenus": false,
-  "theme": "moonstone",
-  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "cssTheme": "Atom",
   "interfaceFontFamily": ""
 }

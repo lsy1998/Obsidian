@@ -47,8 +47,6 @@ clean -> compile -> package
 npm run build:prod
 ```
 
-
-
 ### 2. 数据库
 创建dblink(已创建)
 创建视图(已创建)
