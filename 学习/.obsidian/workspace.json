@@ -13,27 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/面试/Promise.md",
-                "file": "CSS/CSS代码规范.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcda7099cbb6279d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESlint/基础操作.md",
+                "file": "Others/面试/for of 和 for in的区别 ？.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,21 +64,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "f8e117b9596bfa31",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 264.5
   },
   "right": {
     "id": "e660063667c6e541",
@@ -108,8 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/面试/Promise.md",
-                "file": "ESlint/基础操作.md",
+                "file": "Others/面试/for of 和 for in的区别 ？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/面试/Promise.md",
-                "file": "ESlint/基础操作.md",
+                "file": "Others/面试/for of 和 for in的区别 ？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/面试/Promise.md"
-                "file": "ESlint/基础操作.md"
+                "file": "Others/面试/for of 和 for in的区别 ？.md"
               }
             }
           },
@@ -187,12 +162,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcda7099cbb6279d",
+  "active": "6131206b4dac1ece",
   "lastOpenFiles": [
+    "Others/面试/事件循环.md",
+    "Others/面试/for of 和 for in的区别 ？.md",
+    "Others/面试/Promise.md",
+    "Vue/国际化.md",
     "Others/面试/attachments/Pasted image 20230514165735.png",
     "Others/面试/attachments",
     "Others/面试/生命周期.md",
-    "Others/面试/Promise.md",
     "Vue/自定义指令1.md",
     "Others/面试",
     "Others",
@@ -205,12 +183,6 @@
     "CSS/知识点/@property.md",
     "CSS/知识点/@media.md",
     "CSS/知识点/@font-face.md",
-    "CSS/CSS知识点.md",
-    "Vim/Neovim/删除配置.md",
-    "VS Code/{.vscode}.md",
-    "Vue/国际化.md",
-    "CSS/CSS代码规范.md",
-    "Vue",
     "CSS/CSS知识点.md",
     "Vim/Neovim/删除配置.md",
     "Vim/Neovim/安装NVChad.md",
