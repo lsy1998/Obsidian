@@ -1,53 +1,45 @@
 {
   "main": {
-    "id": "130c0f7a7c0d485d",
+    "id": "113fdd51f6237e4a",
     "type": "split",
     "children": [
       {
-        "id": "b570fb6b9f915698",
+        "id": "ee29f893790edfee",
         "type": "tabs",
         "children": [
           {
-            "id": "6131206b4dac1ece",
+            "id": "af1813e9a5820b96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Others/面试/Promise.md",
-                "file": "CSS/CSS代码规范.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcda7099cbb6279d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESlint/基础操作.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d9c66daabc4704d4",
+    "id": "efdddcc3ba1e2d5c",
     "type": "split",
     "children": [
       {
-        "id": "8ca8554d8ad14d74",
+        "id": "47d83c13bd149c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "00c4853fad76b39a",
+            "id": "c1b2ff022af6db01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56109bde7c252088",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,54 +54,33 @@
             }
           },
           {
-            "id": "aea1d6636945be40",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "faff4e856c99c6b6",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "f8e117b9596bfa31",
+            "id": "41261a5bd9f2d6be",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 300
   },
   "right": {
-    "id": "e660063667c6e541",
+    "id": "7241f0e3767d96b1",
     "type": "split",
     "children": [
       {
-        "id": "065a9773a2956092",
+        "id": "5c03f3cdff289192",
         "type": "tabs",
         "children": [
           {
-            "id": "a9b451951368c9ba",
+            "id": "a00c341443934a7d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/面试/Promise.md",
-                "file": "ESlint/基础操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,20 +92,18 @@
             }
           },
           {
-            "id": "91920ab2ffd9d64b",
+            "id": "7aa7fa4db897152a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/面试/Promise.md",
-                "file": "ESlint/基础操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aa9a5be3b9675683",
+            "id": "b3291023bc641c73",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,30 +114,19 @@
             }
           },
           {
-            "id": "72e55e60db885538",
+            "id": "b238ae725b83db7b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Others/面试/Promise.md"
-                "file": "ESlint/基础操作.md"
-              }
-            }
-          },
-          {
-            "id": "7cb1fed66bc2f540",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +134,7 @@
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -183,41 +142,9 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "audio-recorder:开始/结束录音": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "fcda7099cbb6279d",
-  "lastOpenFiles": [
-    "Others/面试/attachments/Pasted image 20230514165735.png",
-    "Others/面试/attachments",
-    "Others/面试/生命周期.md",
-    "Others/面试/Promise.md",
-    "Vue/自定义指令1.md",
-    "Others/面试",
-    "Others",
-    "ESlint/基础操作.md",
-    "Excalidraw/Drawing 2023-05-06 11.00.41.excalidraw.md",
-    "Excalidraw",
-    "Untitled Diagram.svg",
-    "CSS/知识点/可变字体.md",
-    "Vue",
-    "CSS/知识点/@property.md",
-    "CSS/知识点/@media.md",
-    "CSS/知识点/@font-face.md",
-    "CSS/CSS知识点.md",
-    "Vim/Neovim/删除配置.md",
-    "VS Code/{.vscode}.md",
-    "Vue/国际化.md",
-    "CSS/CSS代码规范.md",
-    "Vue",
-    "CSS/CSS知识点.md",
-    "Vim/Neovim/删除配置.md",
-    "Vim/Neovim/安装NVChad.md",
-    "数据库/Oracle/Floor().md",
-    "Vim/Neovim/attachments/lazy.nvim-9.14.5.zip",
-    "Vim/Neovim/attachments",
-    "Vim/Neovim",
-    "Vim"
-  ]
+  "active": "af1813e9a5820b96",
+  "lastOpenFiles": []
 }
