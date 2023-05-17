@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f5e5560b99afb098",
+        "id": "430d3f79dde2af4f",
         "type": "tabs",
         "children": [
           {
-            "id": "69bdf62ce265ae8e",
+            "id": "5ebaeaa8f57714b2",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-              "type": "markdown",
-              "state": {
-                "file": "Others/面试/for of 和 for in的区别 ？.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
-        ]
         ]
       }
     ],
@@ -67,22 +60,6 @@
               "type": "bookmarks",
               "state": {}
             }
-            "id": "aea1d6636945be40",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "faff4e856c99c6b6",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
         ]
       }
@@ -104,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Others/面试/Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Others/面试/Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Others/面试/Promise.md"
+              }
             }
           }
         ]
@@ -168,11 +149,11 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "69bdf62ce265ae8e",
-  "active": "6131206b4dac1ece",
+  "active": "c1b2ff022af6db01",
   "lastOpenFiles": [
-    "Others/面试/事件循环.md",
     "Others/面试/for of 和 for in的区别 ？.md",
+    "Others/面试/事件循环.md",
+    "Others/面试/生命周期.md",
     "CSS/知识点/align-content,justify-content,align-items,justify-items.md"
   ]
 }
