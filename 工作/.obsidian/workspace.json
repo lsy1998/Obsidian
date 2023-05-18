@@ -253,6 +253,7 @@
   },
   "active": "f4085ef20f9a2c9b",
   "lastOpenFiles": [
+    "result.json",
     "Talent Profile/talent profile部署正式环境.md",
     "HRM/Workday同步.md",
     "HRM/表添加字段.md",
@@ -280,7 +281,6 @@
     "HRM/数据库表/表/WRK_PR_COST_CENTER_RESULT.md",
     "HRM/数据库表/表/PR_COST_CENTER_RESULT.md",
     "HRM/数据库表/表/tx_spec_deduct_category_defn.md",
-    "HRM/工资计算.md",
     "HRM/数据库表/程序包/pkg_share_src",
     "HRM/数据库表/程序包/pkg_payroll",
     "HRM/数据库表/程序包/pkg_epayslip",
