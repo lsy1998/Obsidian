@@ -12,5 +12,9 @@
     "en-US"
   ],
   "alwaysUpdateLinks": true,
-  "vimMode": false
+  "vimMode": false,
+  "showFrontmatter": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
 }

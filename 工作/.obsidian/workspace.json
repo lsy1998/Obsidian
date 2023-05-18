@@ -13,86 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRM/HRM培训模块部署正式环境.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40483479531625d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/部署正式环境20230426.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dfbd7ea89865933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Talent Profile/el-tooltip内部循环失效.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ac318aefa23d47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/添加数据字典.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "635d775f8a72fc3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/上传文件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "134b58cdb02d53bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Talent Profile/talent profile部署正式环境.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4085ef20f9a2c9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HRM/Workday同步.md",
+                "file": "HRM/功能实现/上传文件.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 287.5
   },
   "right": {
     "id": "52773f3be8961ad0",
@@ -166,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/Workday同步.md",
+                "file": "HRM/功能实现/上传文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/Workday同步.md",
+                "file": "HRM/功能实现/上传文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/Workday同步.md"
+                "file": "HRM/功能实现/上传文件.md"
               }
             }
           },
@@ -251,20 +178,26 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "f4085ef20f9a2c9b",
+  "active": "5ae2b165d2d6830c",
   "lastOpenFiles": [
-    "result.json",
+    "HRM/images/Pasted image 20230518112642.png",
+    "HRM/images/Pasted image 20230518111243.png",
+    "HRM/功能实现/上传文件.md",
+    "HRM/业务逻辑/导出异常考勤.md",
+    "HRM/业务逻辑/Workday同步.md",
+    "HRM/功能实现",
+    "HRM/其他",
+    "HRM/业务逻辑",
+    "HRM/其他/Vue Cli迁移到Vite.md",
+    "HRM/其他/HRM培训模块部署正式环境.md",
+    "HRM/其他/表添加字段.md",
     "Talent Profile/talent profile部署正式环境.md",
-    "HRM/Workday同步.md",
-    "HRM/表添加字段.md",
-    "HRM/上传文件.md",
-    "HRM/添加数据字典.md",
     "Talent Profile/el-tooltip内部循环失效.md",
-    "HRM/部署正式环境20230426.md",
-    "HRM/HRM培训模块部署正式环境.md",
+    "result.json",
+    "HRM/业务逻辑/添加数据字典.md",
+    "HRM/其他/部署正式环境20230426.md",
     "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
     "Excalidraw/Drawing 2023-03-27 11.33.44.excalidraw.md",
-    "HRM/Vue Cli迁移到Vite.md",
     "HRM/问题/el-table修改了值界面没变化.md",
     "HRM/数据库表/程序包/pkg_payroll/FNC_BEFORE_PAYROLL_EVENTS.md",
     "HRM/数据库表/程序包/pkg_tax/FNC_G_TAX_RETN_CAL.md",
@@ -280,25 +213,18 @@
     "HRM/数据库表/程序包/pkg_payroll/FNC_AFTER_PAYROLL_EVENTS.md",
     "HRM/数据库表/表/WRK_PR_COST_CENTER_RESULT.md",
     "HRM/数据库表/表/PR_COST_CENTER_RESULT.md",
-    "HRM/数据库表/表/tx_spec_deduct_category_defn.md",
     "HRM/数据库表/程序包/pkg_share_src",
     "HRM/数据库表/程序包/pkg_payroll",
     "HRM/数据库表/程序包/pkg_epayslip",
     "HRM/数据库表/程序包",
-    "HRM/数据库表/调度程序",
-    "HRM/数据库表/表",
     "HRM/images/Pasted image 20230301094743.png",
     "HRM/images/Pasted image 20230403172124.png",
     "HRM/images/Pasted image 20230403172054.png",
     "HRM/images/Pasted image 20230301094909.png",
     "HRM/images/Pasted image 20230301095113.png",
     "HRM/images/Pasted image 20230329151919.png",
-    "HRM/问题",
     "HRM/Diagram.svg",
     "未命名.canvas",
-    "HRM/按成本中心导出工资单/函数",
-    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
-    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg"
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg"
   ]
 }
