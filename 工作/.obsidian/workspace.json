@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talent Profile/talent profile部署正式环境.md",
+                "file": "HRM/Workday同步.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talent Profile/talent profile部署正式环境.md",
+                "file": "HRM/Workday同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talent Profile/talent profile部署正式环境.md",
+                "file": "HRM/Workday同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talent Profile/talent profile部署正式环境.md"
+                "file": "HRM/Workday同步.md"
               }
             }
           },
@@ -253,6 +253,8 @@
   },
   "active": "f4085ef20f9a2c9b",
   "lastOpenFiles": [
+    "Talent Profile/talent profile部署正式环境.md",
+    "HRM/Workday同步.md",
     "HRM/表添加字段.md",
     "HRM/上传文件.md",
     "HRM/添加数据字典.md",
@@ -261,7 +263,6 @@
     "HRM/HRM培训模块部署正式环境.md",
     "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
     "Excalidraw/Drawing 2023-03-27 11.33.44.excalidraw.md",
-    "Talent Profile/talent profile部署正式环境.md",
     "HRM/Vue Cli迁移到Vite.md",
     "HRM/问题/el-table修改了值界面没变化.md",
     "HRM/数据库表/程序包/pkg_payroll/FNC_BEFORE_PAYROLL_EVENTS.md",
@@ -280,7 +281,6 @@
     "HRM/数据库表/表/PR_COST_CENTER_RESULT.md",
     "HRM/数据库表/表/tx_spec_deduct_category_defn.md",
     "HRM/工资计算.md",
-    "HRM/数据库表/表/PR_RESULT.md",
     "HRM/数据库表/程序包/pkg_share_src",
     "HRM/数据库表/程序包/pkg_payroll",
     "HRM/数据库表/程序包/pkg_epayslip",
