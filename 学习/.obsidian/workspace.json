@@ -11,8 +11,12 @@
             "id": "5ebaeaa8f57714b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Others/面试/valueOf和toString.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/面试/Promise.md",
+                "file": "Others/面试/valueOf和toString.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/面试/Promise.md",
+                "file": "Others/面试/valueOf和toString.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/面试/Promise.md"
+                "file": "Others/面试/valueOf和toString.md"
               }
             }
           }
@@ -149,8 +153,9 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "c1b2ff022af6db01",
+  "active": "5ebaeaa8f57714b2",
   "lastOpenFiles": [
+    "Others/面试/valueOf和toString.md",
     "Others/面试/闭包 ？.md",
     "Others/面试/for of 和 for in的区别 ？.md",
     "Others/面试/事件循环.md",
