@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRM/业务逻辑/Workday同步.md",
+                "file": "Talent Profile/talent profile部署正式环境.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff489af6c43edcd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/业务逻辑/Workday同步.md",
+                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/业务逻辑/Workday同步.md",
+                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/业务逻辑/Workday同步.md"
+                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md"
               }
             }
           },
@@ -178,10 +191,13 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "f8208b5f64299601",
+  "active": "ff489af6c43edcd8",
   "lastOpenFiles": [
-    "HRM/images/result.json",
     "Talent Profile/talent profile部署正式环境.md",
+    "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
+    "HRM/业务逻辑/同步专项扣除数据到eform.md",
+    "HRM/业务逻辑/Workday同步.md",
+    "HRM/images/result.json",
     "Talent Profile/el-tooltip内部循环失效.md",
     "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md",
     "Excalidraw/Drawing 2023-03-27 11.33.44.excalidraw.md",
@@ -201,7 +217,6 @@
     "HRM/images/Pasted image 20230518112642.png",
     "HRM/images/Pasted image 20230518111243.png",
     "HRM/业务逻辑/导出异常考勤.md",
-    "HRM/业务逻辑/Workday同步.md",
     "HRM/功能实现",
     "HRM/其他",
     "HRM/业务逻辑",
@@ -211,13 +226,11 @@
     "result.json",
     "HRM/业务逻辑/添加数据字典.md",
     "HRM/其他/部署正式环境20230426.md",
-    "HRM/数据库表/程序包/pkg_share_src/FNC_POLICY_CNTL.md",
     "HRM/数据库表/程序包/pkg_tax",
     "HRM/HRM.zip",
     "HRM/数据库表/程序包/pkg_share_src",
     "HRM/数据库表/程序包/pkg_payroll",
     "HRM/数据库表/程序包/pkg_epayslip",
-    "HRM/数据库表/程序包",
     "HRM/images/Pasted image 20230301094743.png",
     "HRM/images/Pasted image 20230403172124.png",
     "HRM/images/Pasted image 20230403172054.png",
