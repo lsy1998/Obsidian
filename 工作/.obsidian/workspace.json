@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b54d3d0af455a9e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +201,7 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "ff489af6c43edcd8",
+  "active": "0b54d3d0af455a9e",
   "lastOpenFiles": [
     "Talent Profile/talent profile部署正式环境.md",
     "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
