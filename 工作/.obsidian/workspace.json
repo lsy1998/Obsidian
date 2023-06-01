@@ -95,8 +95,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "951186b16f1d5f69",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -116,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
+                "file": "Talent Profile/talent profile部署正式环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
+                "file": "Talent Profile/talent profile部署正式环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md"
+                "file": "Talent Profile/talent profile部署正式环境.md"
               }
             }
           },
@@ -198,10 +207,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
-      "privacy-glasses:Reveal all": false
+      "privacy-glasses:Reveal all": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0b54d3d0af455a9e",
+  "active": "951186b16f1d5f69",
   "lastOpenFiles": [
     "Talent Profile/talent profile部署正式环境.md",
     "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
