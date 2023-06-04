@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "柯里化",
-      "path": "JS/柯里化.md"
+      "basename": "rest参数",
+      "path": "JS/rest参数.md"
     },
     {
       "basename": "bind函数",
       "path": "JS/bind函数.md"
+    },
+    {
+      "basename": "柯里化",
+      "path": "JS/柯里化.md"
     },
     {
       "basename": "super",

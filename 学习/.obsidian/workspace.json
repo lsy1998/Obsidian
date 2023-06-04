@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/柯里化.md",
+                "file": "JS/rest参数.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/柯里化.md",
+                "file": "JS/rest参数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/柯里化.md",
+                "file": "JS/rest参数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,12 +173,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/柯里化.md"
+                "file": "JS/rest参数.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,6 +204,7 @@
   "active": "9f807a9875dc039e",
   "lastOpenFiles": [
     "JS/bind函数.md",
+    "JS/rest参数.md",
     "JS/柯里化.md",
     "TypeScript/super.md",
     "TypeScript/type.md",
