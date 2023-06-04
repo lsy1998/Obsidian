@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/形参和实参.md",
+                "file": "JS/柯里化.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#面向对象",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/形参和实参.md",
+                "file": "JS/柯里化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/形参和实参.md",
+                "file": "JS/柯里化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,16 +173,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/形参和实参.md"
+                "file": "JS/柯里化.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,11 +204,23 @@
   },
   "active": "9f807a9875dc039e",
   "lastOpenFiles": [
-    "Linux/命令/rm.md",
+    "JS/bind函数.md",
+    "JS/柯里化.md",
+    "TypeScript/super.md",
+    "TypeScript/type.md",
+    "CSS/知识点/focus-visible 和 focus.md",
+    "TypeScript/数据类型.md",
+    "Others/面试/valueOf和toString.md",
+    "CSS/CSS知识点.md",
+    "CSS/知识点/hsl()和hsla().md",
+    "TypeScript/abstract.md",
+    "TypeScript/interface.md",
+    "CSS/知识点/SVG.md",
+    "ESlint/基础操作.md",
     "JS/形参和实参.md",
+    "Linux/命令/rm.md",
     "JS",
     "Excalidraw/Drawing 2023-05-29 21.30.43.excalidraw.md",
-    "Others/面试/valueOf和toString.md",
     "Others/面试/闭包 ？.md",
     "Others/面试/for of 和 for in的区别 ？.md",
     "Others/面试/事件循环.md",

@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "柯里化",
+      "path": "JS/柯里化.md"
+    },
+    {
+      "basename": "bind函数",
+      "path": "JS/bind函数.md"
+    },
+    {
+      "basename": "super",
+      "path": "TypeScript/super.md"
+    },
+    {
+      "basename": "type",
+      "path": "TypeScript/type.md"
+    },
+    {
+      "basename": "focus-visible 和 focus",
+      "path": "CSS/知识点/focus-visible 和 focus.md"
+    },
+    {
+      "basename": "CSS知识点",
+      "path": "CSS/CSS知识点.md"
+    },
+    {
+      "basename": "valueOf和toString",
+      "path": "Others/面试/valueOf和toString.md"
+    },
+    {
+      "basename": "数据类型",
+      "path": "TypeScript/数据类型.md"
+    },
+    {
+      "basename": "abstract",
+      "path": "TypeScript/abstract.md"
+    },
+    {
+      "basename": "interface",
+      "path": "TypeScript/interface.md"
+    },
+    {
+      "basename": "SVG",
+      "path": "CSS/知识点/SVG.md"
+    },
+    {
+      "basename": "基础操作",
+      "path": "ESlint/基础操作.md"
+    },
+    {
       "basename": "形参和实参",
       "path": "JS/形参和实参.md"
     },
