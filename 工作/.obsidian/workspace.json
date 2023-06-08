@@ -42,19 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "13052b070943b1c7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "HRM/业务逻辑/Drawing 2023-06-08 14.46.41.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -136,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/业务逻辑/Drawing 2023-06-08 14.46.41.excalidraw.md",
+                "file": "HRM/业务逻辑/查找员工连续考勤天数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/业务逻辑/Drawing 2023-06-08 14.46.41.excalidraw.md",
+                "file": "HRM/业务逻辑/查找员工连续考勤天数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/业务逻辑/Drawing 2023-06-08 14.46.41.excalidraw.md"
+                "file": "HRM/业务逻辑/查找员工连续考勤天数.md"
               }
             }
           },
@@ -222,11 +213,14 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "13052b070943b1c7",
+  "active": "0b54d3d0af455a9e",
   "lastOpenFiles": [
-    "HRM/images/Pasted image 20230403172054.png",
-    "HRM/业务逻辑/Drawing 2023-06-08 14.46.41.excalidraw.md",
+    "HRM/业务逻辑/excalidraws/生成异常考勤.excalidraw.md",
+    "HRM/业务逻辑/生成异常考勤.md",
     "HRM/业务逻辑/查找员工连续考勤天数.md",
+    "HRM/业务逻辑/Workday同步.md",
+    "HRM/业务逻辑/excalidraws",
+    "HRM/images/Pasted image 20230403172054.png",
     "HRM/其他/添加数据字典.md",
     "HRM/业务逻辑/添加数据字典.md",
     "HRM/其他/表添加字段.md",
@@ -236,7 +230,6 @@
     "Talent Profile/talent profile部署正式环境.md",
     "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
     "HRM/业务逻辑/同步专项扣除数据到eform.md",
-    "HRM/业务逻辑/Workday同步.md",
     "HRM/images/result.json",
     "Talent Profile/el-tooltip内部循环失效.md",
     "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md",
@@ -261,7 +254,6 @@
     "HRM/HRM.zip",
     "HRM/数据库表/程序包/pkg_share_src",
     "HRM/数据库表/程序包/pkg_payroll",
-    "HRM/数据库表/程序包/pkg_epayslip",
     "HRM/images/Pasted image 20230301094743.png",
     "HRM/images/Pasted image 20230403172124.png",
     "HRM/images/Pasted image 20230301094909.png",
