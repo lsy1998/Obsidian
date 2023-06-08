@@ -35,9 +35,11 @@
             "id": "0b54d3d0af455a9e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "HRM/其他/添加数据字典.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talent Profile/talent profile部署正式环境.md",
+                "file": "HRM/其他/添加数据字典.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talent Profile/talent profile部署正式环境.md",
+                "file": "HRM/其他/添加数据字典.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talent Profile/talent profile部署正式环境.md"
+                "file": "HRM/其他/添加数据字典.md"
               }
             }
           },
@@ -211,8 +213,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "951186b16f1d5f69",
+  "active": "0b54d3d0af455a9e",
   "lastOpenFiles": [
+    "HRM/业务逻辑/添加数据字典.md",
+    "HRM/其他/表添加字段.md",
+    "HRM/其他/部署正式环境20230426.md",
+    "HRM/其他/Vue Cli迁移到Vite.md",
+    "HRM/其他/HRM培训模块部署正式环境.md",
     "Talent Profile/talent profile部署正式环境.md",
     "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
     "HRM/业务逻辑/同步专项扣除数据到eform.md",
@@ -240,12 +247,7 @@
     "HRM/功能实现",
     "HRM/其他",
     "HRM/业务逻辑",
-    "HRM/其他/Vue Cli迁移到Vite.md",
-    "HRM/其他/HRM培训模块部署正式环境.md",
-    "HRM/其他/表添加字段.md",
     "result.json",
-    "HRM/业务逻辑/添加数据字典.md",
-    "HRM/其他/部署正式环境20230426.md",
     "HRM/数据库表/程序包/pkg_tax",
     "HRM/HRM.zip",
     "HRM/数据库表/程序包/pkg_share_src",
