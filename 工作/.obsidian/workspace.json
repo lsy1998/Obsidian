@@ -42,6 +42,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0828336e2244cd49",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "HRM/业务逻辑/excalidraws/工时计算.excalidraw.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -106,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,10 +222,12 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0b54d3d0af455a9e",
+  "active": "c45bb4c12154fec5",
   "lastOpenFiles": [
-    "Talent Profile/talent profile部署正式环境.md",
+    "HRM/images/Pasted image 20230613113603.png",
+    "HRM/业务逻辑/excalidraws/工时计算.excalidraw.md",
     "HRM/业务逻辑/计算工时.md",
+    "Talent Profile/talent profile部署正式环境.md",
     "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
     "HRM/业务逻辑/查找员工连续考勤天数.md",
     "HRM/业务逻辑/excalidraws/生成异常考勤.excalidraw.md",
@@ -242,8 +253,6 @@
     "HRM/业务逻辑/按成本中心导出工资单/函数/resExtByCostCenterMapper.getTeamDetailsList(param1).md",
     "HRM/业务逻辑/按成本中心导出工资单/函数/resExtByCostCenterMapper.getEmployeeDetailsList(param1).md",
     "HRM/业务逻辑/按成本中心导出工资单/函数/resExtByCostCenterMapper.getSalaryRate(param1).md",
-    "HRM/业务逻辑/按成本中心导出工资单/函数/resExtByCostCenterMapper.getDeptName(DEPARTMENT_ID).md",
-    "HRM/业务逻辑/按成本中心导出工资单/函数/this.getReportTitlePart2.md",
     "HRM/images/Pasted image 20230518112642.png",
     "HRM/images/Pasted image 20230518111243.png",
     "HRM/功能实现",
