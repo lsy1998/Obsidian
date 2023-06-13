@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45eec3d3994a9353",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,7 +211,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "7a76a25913f38266",
+  "active": "45eec3d3994a9353",
   "lastOpenFiles": [
     "JS/bind函数.md",
     "JS/rest参数.md",
