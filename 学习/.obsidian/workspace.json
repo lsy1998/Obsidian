@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "理财/基金的投资方向.md",
+                "file": "Others/面试/Promise.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "理财/基金的投资方向.md",
+                "file": "Others/面试/Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "理财/基金的投资方向.md",
+                "file": "Others/面试/Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "理财/基金的投资方向.md"
+                "file": "Others/面试/Promise.md"
               }
             }
           }
@@ -203,14 +203,16 @@
   },
   "active": "9f807a9875dc039e",
   "lastOpenFiles": [
-    "理财/开放基金、封闭基金、ETF基金.md",
+    "JS/bind函数.md",
     "理财/基金的投资方向.md",
+    "Linux/命令/rm.md",
+    "ESlint/基础操作.md",
+    "理财/开放基金、封闭基金、ETF基金.md",
     "理财/公募基金与私募基金.md",
     "理财/注册制和核准制.md",
     "理财/上市公司与IPO.md",
     "JS/rest参数.md",
     "理财",
-    "JS/bind函数.md",
     "JS/柯里化.md",
     "TypeScript/super.md",
     "TypeScript/type.md",
@@ -222,9 +224,7 @@
     "TypeScript/abstract.md",
     "TypeScript/interface.md",
     "CSS/知识点/SVG.md",
-    "ESlint/基础操作.md",
     "JS/形参和实参.md",
-    "Linux/命令/rm.md",
     "JS",
     "Excalidraw/Drawing 2023-05-29 21.30.43.excalidraw.md",
     "Others/面试/闭包 ？.md",

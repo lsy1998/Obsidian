@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Promise",
+      "path": "Others/面试/Promise.md"
+    },
+    {
+      "basename": "bind函数",
+      "path": "JS/bind函数.md"
+    },
+    {
       "basename": "基金的投资方向",
       "path": "理财/基金的投资方向.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "rest参数",
       "path": "JS/rest参数.md"
-    },
-    {
-      "basename": "bind函数",
-      "path": "JS/bind函数.md"
     },
     {
       "basename": "柯里化",
