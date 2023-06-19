@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRM/功能实现/行内编辑.md",
+                "file": "HRM/ITWX发版.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HRM/功能实现/行内编辑.md",
+                "file": "HRM/ITWX发版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HRM/功能实现/行内编辑.md",
+                "file": "HRM/ITWX发版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRM/功能实现/行内编辑.md"
+                "file": "HRM/ITWX发版.md"
               }
             }
           },
@@ -225,9 +225,10 @@
   },
   "active": "0b54d3d0af455a9e",
   "lastOpenFiles": [
+    "HRM/功能实现/行内编辑.md",
+    "HRM/ITWX发版.md",
     "HRM/业务逻辑/计算工时.md",
     "Talent Profile/talent profile部署正式环境.md",
-    "HRM/功能实现/行内编辑.md",
     "HRM/问题/pagehelper总数等于pagesize.md",
     "HRM/问题/关闭 Pagehelper.md",
     "HRM/业务逻辑/工资计算.md",
@@ -254,7 +255,6 @@
     "Excalidraw/Drawing 2023-03-27 12.14.36.excalidraw.md",
     "HRM/业务逻辑/按成本中心导出工资单/按成本中心导出工资单.md",
     "HRM/业务逻辑/按成本中心导出工资单/函数/resExtByCostCenterMapper.getPayPeriodDefn(param).md",
-    "HRM/业务逻辑/按成本中心导出工资单/函数/resExtByCostCenterMapper.getOrganAndDepartList(param1).md",
     "HRM/images/Pasted image 20230518112642.png",
     "HRM/images/Pasted image 20230518111243.png",
     "HRM/功能实现",
