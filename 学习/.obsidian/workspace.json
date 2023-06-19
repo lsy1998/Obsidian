@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98d743574587ac7b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#面向对象",
+                "query": "req",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,7 +211,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "9f807a9875dc039e",
+  "active": "98d743574587ac7b",
   "lastOpenFiles": [
     "JS/bind函数.md",
     "理财/基金的投资方向.md",
