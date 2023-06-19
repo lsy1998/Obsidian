@@ -36,6 +36,7 @@
               "type": "markdown",
               "state": {
                 "file": "Others/面试/Promise.md",
+                "file": "JS/小知识点/new Date().md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/面试/Promise.md",
+                "file": "理财/基金的投资方向.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/面试/Promise.md",
+                "file": "理财/基金的投资方向.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/面试/Promise.md"
+                "file": "理财/基金的投资方向.md"
               }
             }
           }
@@ -213,10 +214,6 @@
   },
   "active": "98d743574587ac7b",
   "lastOpenFiles": [
-    "JS/bind函数.md",
-    "理财/基金的投资方向.md",
-    "Linux/命令/rm.md",
-    "ESlint/基础操作.md",
     "理财/开放基金、封闭基金、ETF基金.md",
     "理财/公募基金与私募基金.md",
     "理财/注册制和核准制.md",
@@ -238,8 +235,6 @@
     "JS",
     "Excalidraw/Drawing 2023-05-29 21.30.43.excalidraw.md",
     "Others/面试/闭包 ？.md",
-    "Others/面试/for of 和 for in的区别 ？.md",
-    "Others/面试/事件循环.md",
-    "Others/面试/生命周期.md"
+    "Others/面试/for of 和 for in的区别 ？.md"
   ]
 }

@@ -9,6 +9,10 @@
       "path": "JS/bind函数.md"
     },
     {
+      "basename": "new Date()",
+      "path": "JS/小知识点/new Date().md"
+    },
+    {
       "basename": "基金的投资方向",
       "path": "理财/基金的投资方向.md"
     },
