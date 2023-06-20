@@ -13,7 +13,7 @@ insert into sys_dict_type select * from sys_dict_type@DBL_ATGD_HRM_TEST where di
 
 5. 数据库
 	1. 新字段
-	![[Pasted image 20230620162815.png]]![[Pasted image 20230620162852.png]]![[Pasted image 20230620163126.png]]
+	![[Pasted image 20230620162815.png]]![[Pasted image 20230620162852.png]]![[Pasted image 20230620163126.png]]![[Pasted image 20230620164342.png]]![[Pasted image 20230620164719.png]]![[Pasted image 20230620164927.png]]
 	3. 新表
 ```sql
 create table tr_attend as select * from tr_attend@DBL_ATGD_HRM_TEST where 1=2;
