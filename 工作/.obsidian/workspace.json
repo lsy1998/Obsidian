@@ -225,6 +225,9 @@
   },
   "active": "0b54d3d0af455a9e",
   "lastOpenFiles": [
+    "HRM/images/Pasted image 20230620163126.png",
+    "HRM/images/Pasted image 20230620162852.png",
+    "HRM/images/Pasted image 20230620162815.png",
     "HRM/功能实现/行内编辑.md",
     "HRM/ATWX发版.md",
     "HRM/业务逻辑/计算工时.md",
@@ -254,7 +257,6 @@
     "Excalidraw/Drawing 2023-03-27 11.33.44.excalidraw.md",
     "Excalidraw/Drawing 2023-03-27 12.14.36.excalidraw.md",
     "HRM/业务逻辑/按成本中心导出工资单/按成本中心导出工资单.md",
-    "HRM/业务逻辑/按成本中心导出工资单/函数/resExtByCostCenterMapper.getPayPeriodDefn(param).md",
     "HRM/images/Pasted image 20230518112642.png",
     "HRM/images/Pasted image 20230518111243.png",
     "HRM/功能实现",
@@ -269,8 +271,6 @@
     "HRM/images/Pasted image 20230403172124.png",
     "HRM/images/Pasted image 20230301094909.png",
     "HRM/images/Pasted image 20230301095113.png",
-    "HRM/images/Pasted image 20230329151919.png",
-    "HRM/Diagram.svg",
     "未命名.canvas"
   ]
 }
