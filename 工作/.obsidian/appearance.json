@@ -4,5 +4,6 @@
   "nativeMenus": false,
   "theme": "obsidian",
   "cssTheme": "Sanctum",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "baseFontSize": 16
 }
