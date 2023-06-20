@@ -7,8 +7,14 @@ insert into sys_dict_type select * from sys_dict_type@DBL_ATGD_HRM_TEST where di
 insert into sys_dict_data select * from sys_dict_data@DBL_ATGD_HRM_TEST where dict_type in('NO_ABNORMAL_ATTENDANCE_EMAIL','EMPLOYEE_STATUS','FAMILY_RELATIONS','PAY_SLIP_COMPANY_CONTRIBUTION');
 ```
 4. 菜单
+
 5. 数据库
 	1. 新字段
 	2. 新表
-	3. 新脚本
+```sql
+create table tr_attend as select * from tr_attend@DBL_ATGD_HRM_TEST where 1=2;
+create table tr_attend_employee as select * from tr_attend_employee@DBL_ATGD_HRM_TEST where 1=2;
+create table tr_schedule as select * from tr_schedule@DBL_ATGD_HRM_TEST where 1=2;
+```
+	1. 新脚本
 
