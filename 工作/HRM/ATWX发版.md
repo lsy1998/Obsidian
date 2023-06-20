@@ -1,5 +1,6 @@
 1. 代码
 2. 模版
+	整个打包上传过去
 3. 数据字典
 ```sql
 insert into sys_dict_type select * from sys_dict_type@DBL_ATGD_HRM_TEST where dict_type in('NO_ABNORMAL_ATTENDANCE_EMAIL','EMPLOYEE_STATUS','FAMILY_RELATIONS','PAY_SLIP_COMPANY_CONTRIBUTION');
