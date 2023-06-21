@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "rm",
+      "path": "Linux/命令/rm.md"
+    },
+    {
+      "basename": "Drawing 2023-06-21 16.25.16.excalidraw",
+      "path": "Excalidraw/Drawing 2023-06-21 16.25.16.excalidraw.md"
+    },
+    {
+      "basename": "valueOf和toString",
+      "path": "Others/面试/valueOf和toString.md"
+    },
+    {
+      "basename": "new Date()",
+      "path": "JS/小知识点/new Date().md"
+    },
+    {
       "basename": "Promise",
       "path": "Others/面试/Promise.md"
     },
     {
       "basename": "bind函数",
       "path": "JS/bind函数.md"
-    },
-    {
-      "basename": "new Date()",
-      "path": "JS/小知识点/new Date().md"
     },
     {
       "basename": "基金的投资方向",
@@ -57,10 +69,6 @@
       "path": "CSS/CSS知识点.md"
     },
     {
-      "basename": "valueOf和toString",
-      "path": "Others/面试/valueOf和toString.md"
-    },
-    {
       "basename": "数据类型",
       "path": "TypeScript/数据类型.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "形参和实参",
       "path": "JS/形参和实参.md"
-    },
-    {
-      "basename": "rm",
-      "path": "Linux/命令/rm.md"
     },
     {
       "basename": "Drawing 2023-05-29 21.30.43.excalidraw",
