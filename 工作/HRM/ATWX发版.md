@@ -30,4 +30,8 @@ create table EXAM_ACTUAL_TEMPLATE as select * from EXAM_ACTUAL_TEMPLATE@DBL_ATGD
 create table TR_COURSE_DEFN as select * from TR_COURSE_DEFN@DBL_ATGD_HRM_TEST where 1=2;
 ```
 
+脚本
+```
+PKG_TERMINATION_INSURANCE
+```
 

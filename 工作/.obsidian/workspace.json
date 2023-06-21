@@ -116,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,6 +224,9 @@
   },
   "active": "0b54d3d0af455a9e",
   "lastOpenFiles": [
+    "HRM/业务逻辑/查找员工连续考勤天数.md",
+    "HRM/业务逻辑/工资计算.md",
+    "HRM/ATWX发版.md",
     "HRM/images/Pasted image 20230620171401.png",
     "HRM/images/Pasted image 20230620171246.png",
     "HRM/images/Pasted image 20230620170431.png",
@@ -236,17 +238,13 @@
     "HRM/images/Pasted image 20230620162852.png",
     "HRM/images/Pasted image 20230620162815.png",
     "HRM/功能实现/行内编辑.md",
-    "HRM/ATWX发版.md",
     "HRM/业务逻辑/计算工时.md",
     "Talent Profile/talent profile部署正式环境.md",
     "HRM/问题/pagehelper总数等于pagesize.md",
     "HRM/问题/关闭 Pagehelper.md",
-    "HRM/业务逻辑/工资计算.md",
     "HRM/业务逻辑/Workday同步.md",
-    "HRM/images/Pasted image 20230613113603.png",
     "HRM/业务逻辑/excalidraws/工时计算.excalidraw.md",
     "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
-    "HRM/业务逻辑/查找员工连续考勤天数.md",
     "HRM/业务逻辑/excalidraws/生成异常考勤.excalidraw.md",
     "HRM/业务逻辑/生成异常考勤.md",
     "HRM/业务逻辑/excalidraws",
