@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS知识点",
+      "path": "CSS/CSS知识点.md"
+    },
+    {
+      "basename": "编译配置(tsconfig.json)",
+      "path": "TypeScript/编译配置(tsconfig.json).md"
+    },
+    {
+      "basename": "公募基金与私募基金",
+      "path": "理财/公募基金与私募基金.md"
+    },
+    {
       "basename": "rm",
       "path": "Linux/命令/rm.md"
     },
@@ -33,10 +45,6 @@
       "path": "理财/开放基金、封闭基金、ETF基金.md"
     },
     {
-      "basename": "公募基金与私募基金",
-      "path": "理财/公募基金与私募基金.md"
-    },
-    {
       "basename": "注册制和核准制",
       "path": "理财/注册制和核准制.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "focus-visible 和 focus",
       "path": "CSS/知识点/focus-visible 和 focus.md"
-    },
-    {
-      "basename": "CSS知识点",
-      "path": "CSS/CSS知识点.md"
     },
     {
       "basename": "数据类型",

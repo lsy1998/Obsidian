@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6a4e5c782c1507b",
+        "id": "dda224b5d5ceb97e",
         "type": "tabs",
         "children": [
           {
-            "id": "48653a8b79fc0053",
+            "id": "c8f13bdf42e2d001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/命令/rm.md",
+                "file": "CSS/CSS知识点.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,14 +109,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/命令/rm.md",
+                "file": "CSS/CSS知识点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/命令/rm.md",
+                "file": "CSS/CSS知识点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,15 +149,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/命令/rm.md"
+                "file": "CSS/CSS知识点.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,16 +179,22 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "48653a8b79fc0053",
+  "active": "c8f13bdf42e2d001",
   "lastOpenFiles": [
+    "CSS/知识点/@property.md",
+    "CSS/CSS知识点.md",
+    "CSS/知识点/align-content,justify-content,align-items,justify-items.md",
+    "CSS/知识点/SVG.md",
+    "TypeScript/编译配置(tsconfig.json).md",
+    "理财/开放基金、封闭基金、ETF基金.md",
+    "理财/公募基金与私募基金.md",
+    "TypeScript/abstract.md",
     "Linux/命令/rm.md",
     "理财/基金的投资方向.md",
-    "理财/公募基金与私募基金.md",
     "理财/注册制和核准制.md",
     "Excalidraw/Drawing 2023-06-21 16.25.16.excalidraw.md",
     "Others/面试/valueOf和toString.md",
     "JS/小知识点/new Date().md",
-    "理财/开放基金、封闭基金、ETF基金.md",
     "理财/上市公司与IPO.md",
     "JS/rest参数.md",
     "理财",
@@ -195,15 +203,11 @@
     "TypeScript/type.md",
     "CSS/知识点/focus-visible 和 focus.md",
     "TypeScript/数据类型.md",
-    "CSS/CSS知识点.md",
     "CSS/知识点/hsl()和hsla().md",
-    "TypeScript/abstract.md",
     "TypeScript/interface.md",
-    "CSS/知识点/SVG.md",
     "JS/形参和实参.md",
     "JS",
     "Excalidraw/Drawing 2023-05-29 21.30.43.excalidraw.md",
-    "Others/面试/闭包 ？.md",
-    "Others/面试/for of 和 for in的区别 ？.md"
+    "Others/面试/闭包 ？.md"
   ]
 }
