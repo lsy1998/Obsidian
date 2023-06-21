@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SVG",
+      "path": "CSS/知识点/SVG.md"
+    },
+    {
       "basename": "CSS知识点",
       "path": "CSS/CSS知识点.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "interface",
       "path": "TypeScript/interface.md"
-    },
-    {
-      "basename": "SVG",
-      "path": "CSS/知识点/SVG.md"
     },
     {
       "basename": "基础操作",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/CSS知识点.md",
+                "file": "CSS/知识点/SVG.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/CSS知识点.md",
+                "file": "CSS/知识点/SVG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/CSS知识点.md",
+                "file": "CSS/知识点/SVG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,17 +149,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/CSS知识点.md"
+                "file": "CSS/知识点/SVG.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +178,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "c8f13bdf42e2d001",
+  "active": "7aa7fa4db897152a",
   "lastOpenFiles": [
-    "CSS/知识点/@property.md",
     "CSS/CSS知识点.md",
-    "CSS/知识点/align-content,justify-content,align-items,justify-items.md",
+    "CSS/知识点/可变字体.md",
     "CSS/知识点/SVG.md",
+    "CSS/知识点/@property.md",
+    "CSS/知识点/align-content,justify-content,align-items,justify-items.md",
     "TypeScript/编译配置(tsconfig.json).md",
     "理财/开放基金、封闭基金、ETF基金.md",
     "理财/公募基金与私募基金.md",
@@ -207,7 +207,6 @@
     "TypeScript/interface.md",
     "JS/形参和实参.md",
     "JS",
-    "Excalidraw/Drawing 2023-05-29 21.30.43.excalidraw.md",
-    "Others/面试/闭包 ？.md"
+    "Excalidraw/Drawing 2023-05-29 21.30.43.excalidraw.md"
   ]
 }

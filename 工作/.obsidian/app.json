@@ -16,5 +16,6 @@
   "showFrontmatter": true,
   "trashOption": "local",
   "newFileLocation": "current",
-  "attachmentFolderPath": "HRM/images"
+  "attachmentFolderPath": "HRM/images",
+  "autoConvertHtml": false
 }

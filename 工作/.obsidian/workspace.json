@@ -30,29 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0b54d3d0af455a9e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0828336e2244cd49",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "HRM/业务逻辑/excalidraws/工时计算.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -134,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md",
+                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md",
+                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md"
+                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md"
               }
             }
           },
@@ -220,11 +201,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0b54d3d0af455a9e",
+  "active": "ff489af6c43edcd8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md",
+    "HRM/业务逻辑/excalidraws/工时计算.excalidraw.md",
+    "HRM/其他/部署正式环境20230426.md",
     "Excalidraw/Drawing 2023-03-27 11.33.44.excalidraw.md",
     "Excalidraw/Drawing 2023-03-27 12.14.36.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md",
     "HRM/其他/ATWX发版20230621.md",
     "HRM/业务逻辑/查找员工连续考勤天数.md",
     "HRM/业务逻辑/工资计算.md",
@@ -244,7 +227,6 @@
     "HRM/问题/pagehelper总数等于pagesize.md",
     "HRM/问题/关闭 Pagehelper.md",
     "HRM/业务逻辑/Workday同步.md",
-    "HRM/业务逻辑/excalidraws/工时计算.excalidraw.md",
     "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
     "HRM/业务逻辑/excalidraws/生成异常考勤.excalidraw.md",
     "HRM/业务逻辑/生成异常考勤.md",
@@ -252,7 +234,6 @@
     "HRM/其他/添加数据字典.md",
     "HRM/业务逻辑/添加数据字典.md",
     "HRM/其他/表添加字段.md",
-    "HRM/其他/部署正式环境20230426.md",
     "HRM/其他/Vue Cli迁移到Vite.md",
     "HRM/其他/HRM培训模块部署正式环境.md",
     "HRM/业务逻辑/同步专项扣除数据到eform.md",
