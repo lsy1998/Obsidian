@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dbcc38370fb10cae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,11 +195,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d25926a32f7ae0b6",
+  "active": "dbcc38370fb10cae",
   "lastOpenFiles": [
+    "Home.md",
     "理财/炒股最小单位.md",
     "Home/Home Page.md",
-    "Home.md",
     "Home",
     "理财/注册制和核准制.md",
     "理财/上市公司与IPO.md",

@@ -11,11 +11,13 @@
       "view": "Reading view",
       "revertView": true,
       "openWhenEmpty": true,
-      "refreshDataview": false,
+      "refreshDataview": true,
       "autoCreate": true,
       "autoScroll": false,
       "pin": false,
-      "commands": [],
+      "commands": [
+        "obsidian-git:pull"
+      ],
       "alwaysApply": true
     }
   },
