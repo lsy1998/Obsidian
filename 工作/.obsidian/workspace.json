@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3245b7dd920fb798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md"
+                "file": "Home.md"
               }
             }
           },
@@ -185,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -198,11 +211,13 @@
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": true
     }
   },
-  "active": "ff489af6c43edcd8",
+  "active": "3245b7dd920fb798",
   "lastOpenFiles": [
+    "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
+    "Home.md",
     "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md",
     "HRM/业务逻辑/excalidraws/工时计算.excalidraw.md",
     "HRM/其他/部署正式环境20230426.md",
@@ -227,7 +242,6 @@
     "HRM/问题/pagehelper总数等于pagesize.md",
     "HRM/问题/关闭 Pagehelper.md",
     "HRM/业务逻辑/Workday同步.md",
-    "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
     "HRM/业务逻辑/excalidraws/生成异常考勤.excalidraw.md",
     "HRM/业务逻辑/生成异常考勤.md",
     "HRM/业务逻辑/excalidraws",
