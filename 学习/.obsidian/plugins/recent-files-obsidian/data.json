@@ -1,28 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "SVG",
-      "path": "CSS/知识点/SVG.md"
-    },
-    {
-      "basename": "CSS知识点",
-      "path": "CSS/CSS知识点.md"
-    },
-    {
-      "basename": "编译配置(tsconfig.json)",
-      "path": "TypeScript/编译配置(tsconfig.json).md"
-    },
-    {
-      "basename": "公募基金与私募基金",
-      "path": "理财/公募基金与私募基金.md"
-    },
-    {
-      "basename": "rm",
-      "path": "Linux/命令/rm.md"
-    },
-    {
-      "basename": "Drawing 2023-06-21 16.25.16.excalidraw",
-      "path": "Excalidraw/Drawing 2023-06-21 16.25.16.excalidraw.md"
+      "basename": "注册制和核准制",
+      "path": "理财/注册制和核准制.md"
     },
     {
       "basename": "valueOf和toString",
@@ -49,8 +29,8 @@
       "path": "理财/开放基金、封闭基金、ETF基金.md"
     },
     {
-      "basename": "注册制和核准制",
-      "path": "理财/注册制和核准制.md"
+      "basename": "公募基金与私募基金",
+      "path": "理财/公募基金与私募基金.md"
     },
     {
       "basename": "上市公司与IPO",
@@ -77,6 +57,10 @@
       "path": "CSS/知识点/focus-visible 和 focus.md"
     },
     {
+      "basename": "CSS知识点",
+      "path": "CSS/CSS知识点.md"
+    },
+    {
       "basename": "数据类型",
       "path": "TypeScript/数据类型.md"
     },
@@ -89,12 +73,20 @@
       "path": "TypeScript/interface.md"
     },
     {
+      "basename": "SVG",
+      "path": "CSS/知识点/SVG.md"
+    },
+    {
       "basename": "基础操作",
       "path": "ESlint/基础操作.md"
     },
     {
       "basename": "形参和实参",
       "path": "JS/形参和实参.md"
+    },
+    {
+      "basename": "rm",
+      "path": "Linux/命令/rm.md"
     },
     {
       "basename": "Drawing 2023-05-29 21.30.43.excalidraw",
