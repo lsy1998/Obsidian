@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "01ad7c7d4e26820c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "19bea74f00dc26ab",
             "type": "leaf",
             "state": {
@@ -40,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10307c18c9f6632e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +191,7 @@
             }
           },
           {
-            "id": "342d539530af0707",
+            "id": "925639b4b88c0cfb",
             "type": "leaf",
             "state": {
               "type": "metatable-sidebar-view",
@@ -229,11 +227,12 @@
   },
   "active": "19bea74f00dc26ab",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md",
-    "Untitled Diagram.svg",
-    "Home.md",
     "other/2023 Goal.md",
+    "Home.md",
+    "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md",
     "2023-06-23.md",
+    "other/front-matter.md",
+    "Untitled Diagram.svg",
     "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
     "HRM/业务逻辑/excalidraws/工时计算.excalidraw.md",
     "HRM/其他/部署正式环境20230426.md",
