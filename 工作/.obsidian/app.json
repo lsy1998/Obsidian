@@ -13,7 +13,7 @@
   ],
   "alwaysUpdateLinks": true,
   "vimMode": false,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "trashOption": "local",
   "newFileLocation": "current",
   "attachmentFolderPath": "HRM/images",

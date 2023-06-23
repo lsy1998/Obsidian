@@ -20,10 +20,6 @@ orange:      ["#ffa244","#fd7f00","#dd6f00","#bf6000","#9b4e00"],
 pink:        ["#ff96cb","#ff70b8","#ff3a9d","#ee0077","#c30062"],
 orangeToRed: ["#ffdf04","#ffbe04","#ff9a03","#ff6d02","#ff2c01"]
 },
-showCurrentDayBorder: true, // (optional) defaults to true
-defaultEntryIntensity: 4,   // (optional) defaults to 4
-intensityScaleStart: 10,    // (optional) defaults to lowest value passed to entries.intensity
-intensityScaleEnd: 100,
 entries: []
 }
 
@@ -33,12 +29,14 @@ let intensity = page.workload
 calendarData.entries.push({
 date: page.file.name,
 color: color,
-intensity: 10
+intensity: 1
 })
 }
 
 renderHeatmapCalendar(this.container, calendarData)
 ```
+
+
 
 ```dataviewjs
 dv.span("** 😊 Title  😥**") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
@@ -71,9 +69,4 @@ for (let page of dv.pages()) {
 }
 
 renderHeatmapCalendar(this.container, calendarData)
-```
-
-
-```ActivityHistory
-/
 ```

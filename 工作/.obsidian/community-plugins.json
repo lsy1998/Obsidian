@@ -23,5 +23,7 @@
   "homepage",
   "highlightr-plugin",
   "heatmap-calendar",
-  "obsidian-activity-history"
+  "obsidian-activity-history",
+  "obsidian-metatable",
+  "calendar"
 ]
