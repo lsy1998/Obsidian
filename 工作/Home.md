@@ -1,9 +1,6 @@
 # 快去 <mark style="background: #FF5582A6;">Git Pull</mark> 一下
 
 ```dataviewjs
-//
-// Using multiple colors for different variations of entry
-//
 const calendarData = {
 year: 2023,
 colors: {
@@ -30,5 +27,8 @@ intensity: 1
 
 renderHeatmapCalendar(this.container, calendarData)
 ```
+```dataviewjs
 
+dv.list(new Set(dv.pages().file.tags))
 
+```
