@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9d010bfe6f812fd1",
+        "id": "2b1d2d88e3143e32",
         "type": "tabs",
         "children": [
           {
-            "id": "f8208b5f64299601",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Talent Profile/talent profile部署正式环境.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff489af6c43edcd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3245b7dd920fb798",
+            "id": "9845dd118eb45932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,10 +189,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": true
     }
   },
-  "active": "3245b7dd920fb798",
+  "active": "9845dd118eb45932",
   "lastOpenFiles": [
-    "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
     "Home.md",
+    "Untitled Diagram.svg",
+    "Talent Profile/在a组件中指定b组件的route-view加载c组件，a,b,c是互相独立的组件.md",
     "Excalidraw/Drawing 2023-03-27 11.33.55.excalidraw.md",
     "HRM/业务逻辑/excalidraws/工时计算.excalidraw.md",
     "HRM/其他/部署正式环境20230426.md",
@@ -235,7 +211,6 @@
     "HRM/images/Pasted image 20230620164342.png",
     "HRM/images/Pasted image 20230620163126.png",
     "HRM/images/Pasted image 20230620162852.png",
-    "HRM/images/Pasted image 20230620162815.png",
     "HRM/功能实现/行内编辑.md",
     "HRM/业务逻辑/计算工时.md",
     "Talent Profile/talent profile部署正式环境.md",
@@ -253,7 +228,6 @@
     "HRM/业务逻辑/同步专项扣除数据到eform.md",
     "HRM/images/result.json",
     "Talent Profile/el-tooltip内部循环失效.md",
-    "HRM/业务逻辑/按成本中心导出工资单/按成本中心导出工资单.md",
     "HRM/功能实现",
     "HRM/其他",
     "HRM/业务逻辑",

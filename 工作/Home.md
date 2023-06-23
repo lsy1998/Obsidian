@@ -1,8 +1,16 @@
 # 快去 <mark style="background: #FF5582A6;">Git Pull</mark> 一下
 
 ```dataviewjs
+
+dv.list(new Set(dv.pages().file.tags))
+
+```
+```dataviewjs
+//
+// Using multiple colors for different variations of entry
+//
 const calendarData = {
-year: 2023,
+year: 2022,
 colors: {
 blue:        ["#8cb9ff","#69a3ff","#428bff","#1872ff","#0058e2"], // first entry is considered default if supplied
 green:       ["#c6e48b","#7bc96f","#49af5d","#2e8840","#196127"],
@@ -14,7 +22,7 @@ orangeToRed: ["#ffdf04","#ffbe04","#ff9a03","#ff6d02","#ff2c01"]
 entries: []
 }
 
-for(let page of dv.pages()){
+for(let page of dv.pages('#daily')){
 let color = "green"
 let intensity = page.workload
 calendarData.entries.push({
@@ -26,9 +34,4 @@ intensity: 1
 }
 
 renderHeatmapCalendar(this.container, calendarData)
-```
-```dataviewjs
-
-dv.list(new Set(dv.pages().file.tags))
-
 ```
