@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hexo",
+      "path": "Hexo/Hexo.md"
+    },
+    {
+      "basename": "front-matter",
+      "path": "Template/front-matter.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },

@@ -98,13 +98,13 @@ async function forMobile(e) {
         new window.Notice(JSON.stringify(http.get) + "123", 10000)
         // http.get(options);
         const resp = await http.get(options).then((resp) => {
-            new window.Notice("请求成功：", 10000)
-            new window.Notice("请求成功：" + resp.status, 10000)
+            //new window.Notice("请求成功：", 10000)
+            //new window.Notice("请求成功：" + resp.status, 10000)
             e.success(resp.data)
         }).catch((error) => {
             new window.Notice("出错了：" + JSON.stringify(error), 10000)
         })
-        new window.Notice("请求成功12", 10000)
+        //new window.Notice("请求成功12", 10000)
         e.success(resp.data)
 
     } catch (e) {
@@ -117,7 +117,7 @@ function forPC(e) {
     try {
         const https = require('https')
         https.get(e.url, function (res) {
-            new window.Notice("https.get成功", 10000)
+            //new window.Notice("https.get成功", 10000)
             res.setEncoding('utf8');
             let rawData = '';
             res.on('data', (chunk) => {
@@ -125,7 +125,7 @@ function forPC(e) {
             });
             res.on('end', () => {
                 try {
-                    new window.Notice("https.get处理数据成功", 10000)
+                    //new window.Notice("https.get处理数据成功", 10000)
                     e.success(rawData)
                 } catch (e) {
                     new window.Notice("https.get处理数据失败", 10000)
@@ -151,7 +151,7 @@ function apProxy() {
             if (!matchUrl(e)) {
                 return ap(e);
             }
-            new window.Notice("正在通过 ProxyGithub 来代理访问社区插件！")
+            //new window.Notice("正在通过 ProxyGithub 来代理访问社区插件！")
             return proxy(e)
         }
     }
@@ -168,7 +168,7 @@ function apProxy() {
         console.log(ap)
         window.Capacitor.registerPlugin("App").request = function (e){
             matchUrl(e);
-            new window.Notice("正在通过 ProxyGithub 来代理访问社区插件！")
+            //new window.Notice("正在通过 ProxyGithub 来代理访问社区插件！")
             ap(e);
             // if (matchUrl(e)) {
             //     return ap(e);
@@ -190,7 +190,7 @@ function apElectron() {
         window.require("electron").ipcRenderer.send = function (a,b,e,...rest){
 			debugger
             matchUrl(e);
-            new window.Notice("正在通过 ProxyGithub 来代理访问社区插件！")
+            //new window.Notice("正在通过 ProxyGithub 来代理访问社区插件！")
             ap(a,b,e, ...rest);
             // if (matchUrl(e)) {
             //     return ap(e);
