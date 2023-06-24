@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "test",
+      "path": "Blog/source/_posts/test.md"
+    },
+    {
       "basename": "Hexo",
       "path": "Hexo/Hexo.md"
     },
     {
       "basename": "front-matter",
       "path": "Template/front-matter.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "炒股最小单位",

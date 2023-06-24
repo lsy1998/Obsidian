@@ -15,5 +15,11 @@
   "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
   "trashOption": "local",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Blog/node_modules/",
+    "Blog/scaffolds/",
+    "Blog/themes/",
+    "Blog/public/"
+  ]
 }
