@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "test",
       "path": "Blog/source/_posts/test.md"
+    },
+    {
+      "basename": "hello-world",
+      "path": "Blog/source/_posts/hello-world.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Hexo",
