@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "上市公司与IPO",
+      "path": "Blog/source/_posts/理财/上市公司与IPO.md"
+    },
+    {
+      "basename": "基金的投资方向",
+      "path": "Blog/source/_posts/理财/基金的投资方向.md"
+    },
+    {
+      "basename": "炒股最小单位",
+      "path": "Blog/source/_posts/理财/炒股最小单位.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Blog/source/_posts/CSS/知识点/未命名.md"
+    },
+    {
+      "basename": "@font-face",
+      "path": "Blog/source/_posts/CSS/知识点/@font-face.md"
+    },
+    {
+      "basename": "CSS知识点",
+      "path": "Blog/source/_posts/CSS/CSS知识点.md"
+    },
+    {
+      "basename": "@media",
+      "path": "Blog/source/_posts/CSS/知识点/@media.md"
+    },
+    {
+      "basename": "可变字体",
+      "path": "Blog/source/_posts/CSS/知识点/可变字体.md"
+    },
+    {
+      "basename": "@property",
+      "path": "Blog/source/_posts/CSS/知识点/@property.md"
+    },
+    {
+      "basename": "front-matter",
+      "path": "Blog/source/_posts/Template/front-matter.md"
     }
   ],
   "omittedPaths": [],
